@@ -1,0 +1,603 @@
+"C:\Program Files" 
+■/tw 最終更新日時  
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は F0A2-C27B です
+
+ C:\Program Files\Common Files\microsoft shared\ClickToRun のディレクトリ
+
+2017/08/02  16:09            18,624 api-ms-win-core-file-l1-2-0.dll
+2017/08/02  16:09            18,624 api-ms-win-core-file-l2-1-0.dll
+2017/08/02  16:09            21,184 api-ms-win-core-localization-l1-2-0.dll
+2017/08/02  16:09            19,136 api-ms-win-core-processthreads-l1-1-1.dll
+2017/08/02  16:09            19,136 api-ms-win-core-synch-l1-2-0.dll
+2017/08/02  16:09            18,624 api-ms-win-core-timezone-l1-1-0.dll
+2017/08/02  16:09            11,616 api-ms-win-core-xstate-l2-1-0.dll
+2017/08/02  16:09            19,648 api-ms-win-crt-conio-l1-1-0.dll
+2017/08/02  16:09            22,720 api-ms-win-crt-convert-l1-1-0.dll
+2017/08/02  16:09            19,136 api-ms-win-crt-environment-l1-1-0.dll
+2017/08/02  16:09            20,672 api-ms-win-crt-filesystem-l1-1-0.dll
+2017/08/02  16:09            19,648 api-ms-win-crt-heap-l1-1-0.dll
+2017/08/02  16:09            19,136 api-ms-win-crt-locale-l1-1-0.dll
+2017/08/02  16:09            27,840 api-ms-win-crt-math-l1-1-0.dll
+2017/08/02  16:09            26,816 api-ms-win-crt-multibyte-l1-1-0.dll
+2017/08/02  16:09            70,848 api-ms-win-crt-private-l1-1-0.dll
+2017/08/02  16:09            19,648 api-ms-win-crt-process-l1-1-0.dll
+2017/08/02  16:09            23,232 api-ms-win-crt-runtime-l1-1-0.dll
+2017/08/02  16:09            24,768 api-ms-win-crt-stdio-l1-1-0.dll
+2017/08/02  16:09            24,768 api-ms-win-crt-string-l1-1-0.dll
+2017/08/02  16:09            21,184 api-ms-win-crt-time-l1-1-0.dll
+2017/08/02  16:09            19,136 api-ms-win-crt-utility-l1-1-0.dll
+2018/01/15  04:48           232,624 ApiClient.dll
+2017/08/02  16:06           665,392 AppVCatalog.dll
+2017/08/02  16:06           316,720 AppVFileSystemMetadata.dll
+2017/08/02  16:06         2,127,656 AppVIntegration.dll
+2017/08/02  16:06           477,992 AppVIsvApi.dll
+2017/08/02  16:06           219,944 AppVIsvStreamingManager.dll
+2017/08/02  16:06         1,431,848 AppVIsvSubsystemController.dll
+2018/01/15  04:37         1,782,448 AppvIsvSubsystems32.dll
+2018/01/15  04:48         2,310,832 AppvIsvSubsystems64.dll
+2017/08/02  16:06           576,304 AppVIsvVirtualization.dll
+2017/08/02  16:06         1,240,880 AppVManifest.dll
+2017/08/02  16:06           957,232 AppVOrchestration.dll
+2017/08/02  16:06         1,304,880 AppVPolicy.dll
+2017/08/02  16:06           521,520 AppVScripting.dll
+2018/01/15  04:37         1,464,488 C2R32.dll
+2018/01/15  04:48         1,928,872 C2R64.dll
+2018/01/15  04:50            47,792 C2RINTL.ja-jp.dll
+2018/01/15  04:50         1,010,864 C2RUI.ja-jp.dll
+2017/11/14  07:59         1,902,776 ClientTelemetry.dll
+2017/11/30  19:05           331,432 concrt140.dll
+2018/01/15  05:00         4,448,432 mso40uires.dll
+2018/01/15  04:53            95,912 msointl30.ja-jp.dll
+2017/08/02  16:09           660,136 msvcp120.dll
+2017/11/30  19:05           641,696 msvcp140.dll
+2017/08/02  16:09           963,240 msvcr120.dll
+2018/01/15  04:48         1,860,784 OfficeC2RCom.dll
+2018/01/15  04:48         4,013,744 StreamServer.dll
+2017/08/02  16:09           982,720 ucrtbase.dll
+2017/11/30  19:05           389,296 vccorlib140.dll
+2017/11/30  19:05            87,728 vcruntime140.dll
+              52 個のファイル          35,502,328 バイト
+
+ C:\Program Files\Common Files\microsoft shared\ink のディレクトリ
+
+2017/09/30  23:18            12,800 dicjp.dll
+2017/09/30  23:18         1,193,472 imjplm.dll
+2017/09/29  22:42           360,960 InkDiv.dll
+2017/09/29  22:42         2,147,328 InkObj.dll
+2017/09/29  22:42             2,560 IPSEventLogMsg.dll
+2017/09/30  23:19            41,472 IpsMigrationPlugin.dll
+2017/09/30  23:19           130,048 IpsPlugin.dll
+2017/09/30  23:19         1,700,352 micaut.dll
+2017/09/29  22:42           503,808 Microsoft.Ink.dll
+2017/09/30  23:19         6,370,304 mraut.dll
+2017/09/29  22:42            51,712 mshwgst.dll
+2017/09/30  23:18           615,424 mshwjpn.dll
+2017/09/30  23:18        11,546,624 mshwjpnr.dll
+2017/09/30  23:19         1,127,936 mshwLatin.dll
+2017/09/29  22:42           190,976 rtscom.dll
+2017/09/30  23:19            41,472 TabIpsps.dll
+2017/09/29  22:42         4,087,808 tabskb.dll
+2017/09/30  23:19         1,086,464 TipRes.dll
+2017/09/29  22:42            22,016 tipresx.dll
+2018/01/15  14:15         1,135,104 tipskins.dll
+2017/09/30  23:19           675,736 tiptsf.dll
+2017/09/29  22:42            96,768 tpcps.dll
+              22 個のファイル          33,141,144 バイト
+
+ C:\Program Files\Common Files\microsoft shared\VC のディレクトリ
+
+2011/04/19  04:09           855,376 msdia90.dll
+               1 個のファイル             855,376 バイト
+
+ C:\Program Files\Common Files\microsoft shared\vgx のディレクトリ
+
+2017/09/29  22:41           984,064 VGX.dll
+               1 個のファイル             984,064 バイト
+
+ C:\Program Files\Common Files\system のディレクトリ
+
+2017/09/29  22:41           863,744 wab32.dll
+2017/09/29  22:41           964,096 wab32res.dll
+               2 個のファイル           1,827,840 バイト
+
+ C:\Program Files\Common Files\system\ado のディレクトリ
+
+2017/09/29  22:41             2,560 msader15.dll
+2017/09/29  22:41         1,235,456 msado15.dll
+2017/09/29  22:41           352,256 msadomd.dll
+2017/09/29  22:41            45,056 msador15.dll
+2017/09/29  22:41           393,216 msadox.dll
+2017/09/29  22:41            90,112 msadrh15.dll
+               6 個のファイル           2,118,656 バイト
+
+ C:\Program Files\Common Files\system\msadc のディレクトリ
+
+2017/09/29  22:41           677,888 msadce.dll
+2017/09/29  22:41             2,560 msadcer.dll
+2017/09/29  22:41           242,176 msadco.dll
+2017/09/29  22:41             2,560 msadcor.dll
+2017/09/29  22:41           274,944 msadds.dll
+2017/09/29  22:41             2,560 msaddsr.dll
+2017/09/29  22:41             2,560 msdaprsr.dll
+2017/09/29  22:41           348,160 msdaprst.dll
+2017/09/29  22:41           215,552 msdarem.dll
+2017/09/29  22:41             2,560 msdaremr.dll
+2017/09/29  22:41            32,256 msdfmap.dll
+              11 個のファイル           1,803,776 バイト
+
+ C:\Program Files\Common Files\system\ole db のディレクトリ
+
+2017/09/29  22:41            97,280 msdaosp.dll
+2017/09/29  22:41           371,200 msdaps.dll
+2017/09/29  22:41           690,176 msdasql.dll
+2017/09/29  22:41            54,784 msdasqlr.dll
+2017/09/29  22:41           117,248 msdatl3.dll
+2017/09/29  22:41            15,872 msxactps.dll
+2017/09/29  22:41           943,616 oledb32.dll
+2017/09/29  22:41            77,824 oledb32r.dll
+2017/09/29  22:41           868,352 sqloledb.dll
+2017/09/29  22:41           312,832 sqlxmlx.dll
+              10 個のファイル           3,549,184 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\memctl\Win8 のディレクトリ
+
+2017/03/17  07:53             1,536 vmmemctlver.dll
+               1 個のファイル               1,536 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\mouse\Win8 のディレクトリ
+
+2017/03/17  07:54             1,536 vmmousever.dll
+2017/03/17  07:54             1,536 vmusbmousever.dll
+               2 個のファイル               3,072 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\pvscsi\Win8 のディレクトリ
+
+2017/03/17  07:55             1,536 pvscsiver.dll
+               1 個のファイル               1,536 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\rawdsk\Win8 のディレクトリ
+
+2017/03/17  07:52             1,536 vmrawdskver.dll
+               1 個のファイル               1,536 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\video_wddm\Vista のディレクトリ
+
+2017/03/17  08:00           100,816 vm3ddevapi.dll
+2017/03/17  08:00           113,112 vm3ddevapi64.dll
+2017/03/17  08:00        11,847,128 vm3dgl.dll
+2017/03/17  08:00        19,044,824 vm3dgl64.dll
+2017/03/17  08:00           326,104 vm3dum.dll
+2017/03/17  08:00           362,456 vm3dum64.dll
+2017/03/17  08:00           217,552 vm3dum64_10.dll
+2017/03/17  08:00           219,608 vm3dum_10.dll
+2017/03/17  08:00             1,536 vm3dver.dll
+               9 個のファイル          32,233,136 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\Virtual Printer\TPOG3\amd64 のディレクトリ
+
+2017/03/17  07:06           337,624 TPPrn.dll
+2017/03/17  07:06         4,761,304 TPPrnUI.dll
+2017/03/17  07:06            51,928 TPPrnUIchs.dll
+2017/03/17  07:06            51,928 TPPrnUIcht.dll
+2017/03/17  07:06            59,608 TPPrnUIcsy.dll
+2017/03/17  07:06            62,168 TPPrnUIdeu.dll
+2017/03/17  07:06            60,120 TPPrnUIell.dll
+2017/03/17  07:06            62,168 TPPrnUIesn.dll
+2017/03/17  07:06            62,680 TPPrnUIfra.dll
+2017/03/17  07:06            60,120 TPPrnUIhun.dll
+2017/03/17  07:06            61,656 TPPrnUIita.dll
+2017/03/17  07:06            54,488 TPPrnUIjpn.dll
+2017/03/17  07:06            54,488 TPPrnUIkor.dll
+2017/03/17  07:06            60,120 TPPrnUIplk.dll
+2017/03/17  07:06            60,632 TPPrnUIptb.dll
+2017/03/17  07:06            60,632 TPPrnUIrus.dll
+2017/03/17  07:06            60,120 TPPrnUIsve.dll
+2017/03/17  07:06            59,608 TPPrnUItha.dll
+2017/03/17  07:06           747,224 TPWinPrn.dll
+              19 個のファイル           6,788,616 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\Virtual Printer\TPOGPS\amd64 のディレクトリ
+
+2017/03/17  07:06           126,136 TPPS.dll
+               1 個のファイル             126,136 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\vmci\device のディレクトリ
+
+2017/02/11  00:10             1,536 vmciver.dll
+               1 個のファイル               1,536 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\vmci\device\Win8 のディレクトリ
+
+2017/02/11  00:10             1,536 vmciver.dll
+               1 個のファイル               1,536 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\vmci\sockets\Win8 のディレクトリ
+
+2017/02/11  00:10            69,104 vsocklib_x64.dll
+2017/02/11  00:10            65,016 vsocklib_x86.dll
+2017/02/11  00:10             1,536 vsockver.dll
+               3 個のファイル             135,656 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\vmxnet3\Win8 のディレクトリ
+
+2017/03/17  07:59             1,536 vmxnet3ver.dll
+               1 個のファイル               1,536 バイト
+
+ C:\Program Files\Common Files\VMware\Drivers\vss のディレクトリ
+
+2017/03/17  07:59           265,192 VCBSnapshotProvider.dll
+               1 個のファイル             265,192 バイト
+
+ C:\Program Files\FileZilla FTP Client のディレクトリ
+
+2017/11/07  04:31            73,384 fzshellext.dll
+2017/11/07  04:32            76,456 fzshellext_64.dll
+               2 個のファイル             149,840 バイト
+
+ C:\Program Files\internet explorer のディレクトリ
+
+2017/09/29  22:41            53,760 hmmapi.dll
+2017/09/29  22:41           402,432 IEShims.dll
+2017/09/29  22:41            49,688 sqmapi.dll
+               3 個のファイル             505,880 バイト
+
+ C:\Program Files\VMware\VMware Tools のディレクトリ
+
+2017/03/17  07:56         1,402,696 deployPkg.dll
+2017/03/17  07:56         1,794,536 gio-2.0.dll
+2017/03/17  07:56         1,365,480 glib-2.0.dll
+2017/03/17  07:56           948,712 glibmm-2.4.dll
+2017/03/17  07:56            33,256 gmodule-2.0.dll
+2017/03/17  07:56           378,856 gobject-2.0.dll
+2017/03/17  07:56            25,576 gthread-2.0.dll
+2017/03/17  07:56           123,368 hgfs.dll
+2017/03/17  07:56           958,440 iconv.dll
+2017/03/17  07:56           122,856 intl.dll
+2017/03/17  07:56         2,360,296 libeay32.dll
+2017/03/17  07:56           284,136 pcre.dll
+2017/03/17  07:56            78,336 sigc-2.0.dll
+2017/03/17  07:56           378,344 ssleay32.dll
+2017/03/17  07:06           143,544 TPVCGatewaydeu.dll
+2017/03/17  07:56           849,384 vmtools.dll
+2017/03/17  07:56           355,304 VMToolsHook.dll
+2017/03/17  07:56           438,248 VMToolsHook64.dll
+              18 個のファイル          12,041,368 バイト
+
+ C:\Program Files\VMware\VMware Tools\Drivers\hgfs\Win8 のディレクトリ
+
+2017/03/17  07:53             1,536 vmhgfsver.dll
+2017/03/17  07:53           142,400 vmhgfs_x64.dll
+2017/03/17  07:53           129,600 vmhgfs_x86.dll
+               3 個のファイル             273,536 バイト
+
+ C:\Program Files\VMware\VMware Tools\plugins\common のディレクトリ
+
+2017/03/17  08:01            27,112 hgfsServer.dll
+2017/03/17  08:01            50,664 hgfsUsability.dll
+2017/03/17  08:02            33,256 thinprint.dll
+2017/03/17  08:02           190,952 vix.dll
+               4 個のファイル             301,984 バイト
+
+ C:\Program Files\VMware\VMware Tools\plugins\vmsvc のディレクトリ
+
+2017/03/17  08:00            49,128 autoLogon.dll
+2017/03/17  08:00            32,232 autoUpgrade.dll
+2017/03/17  08:01            36,840 bitMapper.dll
+2017/03/17  08:01            29,672 deployPkgPlugin.dll
+2017/03/17  08:01            25,576 disableGuestHibernate.dll
+2017/03/17  08:01            30,184 diskWiper.dll
+2017/03/17  08:01           469,480 grabbitmqProxy.dll
+2017/03/17  08:01           282,600 guestInfo.dll
+2017/03/17  08:01           154,088 hwUpgradeHelper.dll
+2017/03/17  08:02            29,160 powerOps.dll
+2017/03/17  08:02            69,096 resolutionSet.dll
+2017/03/17  08:02            32,232 timeSync.dll
+2017/03/17  08:02            61,416 vmbackup.dll
+              13 個のファイル           1,301,704 バイト
+
+ C:\Program Files\VMware\VMware Tools\plugins\vmusr のディレクトリ
+
+2017/03/17  08:01            89,064 desktopEvents.dll
+2017/03/17  08:01           456,168 dndcp.dll
+2017/03/17  07:57         2,638,824 unity.dll
+2017/03/17  08:02           100,328 vmtray.dll
+               4 個のファイル           3,284,384 バイト
+
+ C:\Program Files\VMware\VMware Tools\VMware CAF\pme\bin のディレクトリ
+
+2017/03/17  07:36           111,616 CafIntegrationSubsys.dll
+2017/03/17  07:36           969,728 CommAmqpIntegration.dll
+2017/03/17  07:36           232,448 CommAmqpIntegrationSubsys.dll
+2017/03/17  07:36             7,680 CommAmqpListener.dll
+2017/03/17  07:36           331,776 CommIntegrationSubsys.dll
+2017/03/17  07:36         2,539,008 Framework.dll
+2017/03/17  07:36         1,349,632 glib-2.0.dll
+2017/03/17  07:36             9,728 gthread-2.0.dll
+2017/03/17  07:36           942,592 iconv.dll
+2017/03/17  07:36           471,040 IntegrationSubsys.dll
+2017/03/17  07:36           107,008 intl.dll
+2017/03/17  07:36           293,376 log4cpp.dll
+2017/03/17  07:36           731,648 MaIntegrationSubsys.dll
+2017/03/17  07:36             7,680 ManagementAgentHost.dll
+2017/03/17  07:36           268,288 pcre.dll
+2017/03/17  07:36           200,704 ProviderFx.dll
+2017/03/17  07:36            93,696 rabbitmq.4.dll
+2017/03/17  07:36            97,792 VgAuthIntegrationSubsys.dll
+              18 個のファイル           8,765,440 バイト
+
+ C:\Program Files\VMware\VMware Tools\VMware VGAuth のディレクトリ
+
+2017/03/17  07:36         1,778,688 gio-2.0.dll
+2017/03/17  07:36         1,349,632 glib-2.0.dll
+2017/03/17  07:36            17,408 gmodule-2.0.dll
+2017/03/17  07:36           363,008 gobject-2.0.dll
+2017/03/17  07:36             9,728 gthread-2.0.dll
+2017/03/17  07:36           942,592 iconv.dll
+2017/03/17  07:36           107,008 intl.dll
+2017/03/17  07:36         2,344,448 libeay32.dll
+2017/03/17  07:36           268,288 pcre.dll
+2017/03/17  07:36            50,688 pcrecpp.dll
+2017/03/17  07:36            10,752 pcreposix.dll
+2017/03/17  07:36           362,496 ssleay32.dll
+2017/03/17  07:36            77,312 VGAuth.dll
+2017/03/17  07:36           849,384 vmtools.dll
+2017/03/17  07:36            22,016 VMWSU_V1_0.dll
+2017/03/17  07:36         2,620,928 xerces-c_3_1.dll
+2017/03/17  07:36           774,656 xsec_1_6.dll
+              17 個のファイル          11,949,032 バイト
+
+ C:\Program Files\VMware\VMware Tools\win32 のディレクトリ
+
+2017/03/17  07:56           295,912 vmGuestLib.dll
+2017/03/17  07:56            44,008 vmGuestLibJava.dll
+               2 個のファイル             339,920 バイト
+
+ C:\Program Files\VMware\VMware Tools\win64 のディレクトリ
+
+2017/03/17  07:56           393,192 vmGuestLib.dll
+2017/03/17  07:56            48,616 vmGuestLibJava.dll
+               2 個のファイル             441,808 バイト
+
+ C:\Program Files\Windows Defender のディレクトリ
+
+2017/09/29  22:41           198,040 AMMonitoringProvider.dll
+2017/09/29  22:41           231,320 DataLayer.dll
+2017/09/29  22:41            84,888 DefenderCSP.dll
+2017/09/29  22:41           733,080 EppManifest.dll
+2017/09/29  22:41            95,128 MpAsDesc.dll
+2017/09/29  22:41         2,103,192 MpAzSubmit.dll
+2017/09/29  22:41         1,072,536 MpClient.dll
+2017/09/29  22:41           349,080 MpCommu.dll
+2017/09/29  22:41           122,264 MpEvMsg.dll
+2017/09/29  22:41           122,264 MpOAV.dll
+2017/09/29  22:41           186,264 MpProvider.dll
+2017/09/29  22:41           722,840 MpRtp.dll
+2017/09/29  22:41         2,306,456 MpSvc.dll
+2017/09/29  22:41            21,400 mpuxhostproxy.dll
+2017/09/29  22:41            88,984 MsMpCom.dll
+2017/09/29  22:41            13,208 MsMpLics.dll
+2017/09/29  22:41           444,824 MsMpRes.dll
+2017/09/29  22:41            11,160 MsMpResL.dll
+2017/09/29  22:41            65,944 NisLog.dll
+2017/09/29  22:41            75,160 NisWfp.dll
+2017/09/29  22:41           562,072 ProtectionManagement.dll
+2017/09/29  22:41           330,648 shellext.dll
+2017/09/29  22:41            16,896 wdnsfltrps.dll
+              23 個のファイル           9,957,648 バイト
+
+ C:\Program Files\Windows Defender\Offline のディレクトリ
+
+2017/09/29  22:41           156,056 EppManifest.dll
+2017/09/29  22:41            96,152 MsMpCom.dll
+2017/09/29  22:41            14,232 MsMpLics.dll
+               3 個のファイル             266,440 バイト
+
+ C:\Program Files\Windows Defender Advanced Threat Protection のディレクトリ
+
+2017/09/30  23:19            15,360 SenseCncPS.dll
+2017/09/30  23:19            51,200 SenseMirror.dll
+2017/09/30  23:19           173,056 WATPCSP.dll
+               3 個のファイル             239,616 バイト
+
+ C:\Program Files\Windows Mail のディレクトリ
+
+2017/09/29  22:41            49,152 wabimp.dll
+               1 個のファイル              49,152 バイト
+
+ C:\Program Files\Windows Media Player のディレクトリ
+
+2017/09/29  04:02           183,808 mpvis.DLL
+2017/09/29  04:02           122,880 WMPMediaSharing.dll
+2017/09/29  03:59           501,760 wmpnssci.dll
+2017/09/29  04:04            20,992 WMPNSSUI.dll
+               4 個のファイル             829,440 バイト
+
+ C:\Program Files\Windows Multimedia Platform のディレクトリ
+
+2017/09/29  22:41            49,680 sqmapi.dll
+               1 個のファイル              49,680 バイト
+
+ C:\Program Files\windows nt\accessories のディレクトリ
+
+2017/09/29  22:41           183,808 WordpadFilter.dll
+               1 個のファイル             183,808 バイト
+
+ C:\Program Files\windows nt\tabletextservice のディレクトリ
+
+2017/09/29  22:42           657,408 TableTextService.dll
+               1 個のファイル             657,408 バイト
+
+ C:\Program Files\Windows Photo Viewer のディレクトリ
+
+2017/09/29  22:41         2,250,240 ImagingEngine.dll
+2017/09/29  22:41         1,945,088 PhotoAcq.dll
+2017/09/29  22:41            47,104 PhotoBase.dll
+2017/09/29  22:41         1,739,776 PhotoViewer.dll
+               4 個のファイル           5,982,208 バイト
+
+ C:\Program Files\Windows Portable Devices のディレクトリ
+
+2017/09/29  22:41            49,688 sqmapi.dll
+               1 個のファイル              49,688 バイト
+
+ C:\Program Files\WindowsPowerShell\Modules\PackageManagement\1.0.0.1 のディレクトリ
+
+2017/09/29  22:44            71,168 Microsoft.PackageManagement.ArchiverProviders.dll
+2017/09/29  22:44            59,904 Microsoft.PackageManagement.CoreProviders.dll
+2017/09/29  22:44           254,464 Microsoft.PackageManagement.dll
+2017/09/29  22:44            68,096 Microsoft.PackageManagement.MetaProvider.PowerShell.dll
+2017/09/29  22:44           236,032 Microsoft.PackageManagement.MsiProvider.dll
+2017/09/29  22:44            14,848 Microsoft.PackageManagement.MsuProvider.dll
+2017/09/29  22:44           164,352 Microsoft.PowerShell.PackageManagement.dll
+               7 個のファイル             868,864 バイト
+
+ C:\Program Files\WindowsPowerShell\Modules\PackageManagement\1.0.0.1\en のディレクトリ
+
+2017/09/30  23:17             4,096 Microsoft.PackageManagement.ArchiverProviders.resources.dll
+2017/09/30  23:17             6,144 Microsoft.PackageManagement.CoreProviders.resources.dll
+2017/09/30  23:17             4,608 Microsoft.PackageManagement.MsiProvider.resources.dll
+2017/09/30  23:17             4,096 Microsoft.PackageManagement.MsuProvider.resources.dll
+               4 個のファイル              18,944 バイト
+
+ C:\Program Files\WindowsPowerShell\Modules\PackageManagement\1.0.0.1\ja のディレクトリ
+
+2017/09/30  23:17             6,656 Microsoft.PackageManagement.MetaProvider.PowerShell.resources.dll
+2017/09/30  23:17            14,848 Microsoft.PackageManagement.resources.dll
+2017/09/30  23:17            21,504 Microsoft.PowerShell.PackageManagement.resources.dll
+               3 個のファイル              43,008 バイト
+
+ C:\Program Files\WindowsPowerShell\Modules\PSReadline\1.2 のディレクトリ
+
+2017/09/29  22:44           217,088 Microsoft.PowerShell.PSReadline.dll
+               1 個のファイル             217,088 バイト
+
+ C:\Program Files\WindowsPowerShell\Modules\PSReadline\1.2\ja のディレクトリ
+
+2017/09/30  23:17            33,792 Microsoft.PowerShell.PSReadline.Resources.dll
+               1 個のファイル              33,792 バイト
+
+ C:\Program Files\Wireshark のディレクトリ
+
+2017/10/11  03:53            33,952 comerr64.dll
+2017/10/11  03:53         4,408,992 d3dcompiler_47.dll
+2017/10/11  03:53            45,216 k5sprt64.dll
+2017/10/11  03:53         1,077,920 krb5_64.dll
+2017/10/11  03:53            90,272 libcares-2.dll
+2017/10/11  03:53            29,344 libEGL.dll
+2017/10/11  03:53            47,152 libffi-6.dll
+2017/10/11  03:53            94,512 libgcc_s_seh-1.dll
+2017/10/11  03:53         1,068,704 libgcrypt-20.dll
+2017/10/11  03:53           602,216 libGeoIP-1.dll
+2017/10/11  03:53         1,270,976 libgio-2.0-0.dll
+2017/10/11  03:53         2,022,560 libGLESV2.dll
+2017/10/11  03:53         1,240,936 libglib-2.0-0.dll
+2017/10/11  03:53            41,904 libgmodule-2.0-0.dll
+2017/10/11  03:53           461,520 libgmp-10.dll
+2017/10/11  03:53         1,205,216 libgnutls-30.dll
+2017/10/11  03:53           305,584 libgobject-2.0-0.dll
+2017/10/11  03:53           141,984 libgpg-error6-0.dll
+2017/10/11  03:53           218,040 libhogweed-4-2.dll
+2017/10/11  03:53           135,272 libintl-8.dll
+2017/10/11  03:53           188,064 liblz4.dll
+2017/10/11  03:53           224,072 libnettle-6-2.dll
+2017/10/11  03:53           151,200 libnghttp2-14.dll
+2017/10/11  03:53           369,384 libp11-kit-0.dll
+2017/10/11  03:53            99,488 libsbc-1.dll
+2017/10/11  03:53           746,176 libsmi-2.dll
+2017/10/11  03:53           796,832 libsnappy-1.dll
+2017/10/11  03:53           478,880 libspandsp-2.dll
+2017/10/11  03:53           507,552 libssh.dll
+2017/10/11  03:53            94,200 libtasn1-6.dll
+2017/10/11  03:53            71,416 libwinpthread-1.dll
+2017/10/11  03:53        57,687,200 libwireshark.dll
+2017/10/11  03:53           426,144 libwiretap.dll
+2017/10/11  03:53            48,800 libwscodecs.dll
+2017/10/11  03:53           134,816 libwsutil.dll
+2017/10/11  03:53         1,269,408 libxml2-2.dll
+2017/10/11  03:53           295,896 lua52.dll
+2017/10/11  03:53        17,608,352 opengl32sw.dll
+2017/10/11  03:53         5,673,632 Qt5Core.dll
+2017/10/11  03:53         6,142,624 Qt5Gui.dll
+2017/10/11  03:53           737,440 Qt5Multimedia.dll
+2017/10/11  03:53         1,084,576 Qt5Network.dll
+2017/10/11  03:53           333,984 Qt5PrintSupport.dll
+2017/10/11  03:53           332,960 Qt5Svg.dll
+2017/10/11  03:53         5,516,448 Qt5Widgets.dll
+2017/10/11  03:53           298,144 Qt5WinExtras.dll
+2017/10/11  03:53         1,869,472 WinSparkle.dll
+2017/10/11  03:53           135,328 zlib1.dll
+              48 個のファイル         117,864,760 バイト
+
+ C:\Program Files\Wireshark\audio のディレクトリ
+
+2017/10/11  03:53            71,840 qtaudio_windows.dll
+               1 個のファイル              71,840 バイト
+
+ C:\Program Files\Wireshark\bearer のディレクトリ
+
+2017/10/11  03:53            63,136 qgenericbearer.dll
+2017/10/11  03:53            65,696 qnativewifibearer.dll
+               2 個のファイル             128,832 バイト
+
+ C:\Program Files\Wireshark\iconengines のディレクトリ
+
+2017/10/11  03:53            54,432 qsvgicon.dll
+               1 個のファイル              54,432 バイト
+
+ C:\Program Files\Wireshark\imageformats のディレクトリ
+
+2017/10/11  03:53            46,752 qgif.dll
+2017/10/11  03:53            54,432 qicns.dll
+2017/10/11  03:53            48,800 qico.dll
+2017/10/11  03:53           255,136 qjpeg.dll
+2017/10/11  03:53            40,608 qsvg.dll
+2017/10/11  03:53            40,096 qtga.dll
+2017/10/11  03:53           371,360 qtiff.dll
+2017/10/11  03:53            38,560 qwbmp.dll
+2017/10/11  03:53           394,912 qwebp.dll
+               9 個のファイル           1,290,656 バイト
+
+ C:\Program Files\Wireshark\mediaservice のディレクトリ
+
+2017/10/11  03:53           233,120 dsengine.dll
+2017/10/11  03:53            75,936 qtmedia_audioengine.dll
+2017/10/11  03:53            70,304 wmfengine.dll
+               3 個のファイル             379,360 バイト
+
+ C:\Program Files\Wireshark\platforms のディレクトリ
+
+2017/10/11  03:53         1,253,024 qwindows.dll
+               1 個のファイル           1,253,024 バイト
+
+ C:\Program Files\Wireshark\playlistformats のディレクトリ
+
+2017/10/11  03:53            42,656 qtmultimedia_m3u.dll
+               1 個のファイル              42,656 バイト
+
+ C:\Program Files\Wireshark\plugins\2.4.2 のディレクトリ
+
+2017/10/11  03:53           262,816 docsis.dll
+2017/10/11  03:53           177,824 ethercat.dll
+2017/10/11  03:53            94,880 gryphon.dll
+2017/10/11  03:53            64,160 irda.dll
+2017/10/11  03:53            38,048 m2m.dll
+2017/10/11  03:53            88,736 mate.dll
+2017/10/11  03:53           232,608 opcua.dll
+2017/10/11  03:53           454,304 profinet.dll
+2017/10/11  03:53            33,440 stats_tree.dll
+2017/10/11  03:53            44,704 transum.dll
+2017/10/11  03:53           134,816 unistim.dll
+2017/10/11  03:53           577,184 wimax.dll
+2017/10/11  03:53            80,544 wimaxasncp.dll
+2017/10/11  03:53            88,736 wimaxmacphy.dll
+              14 個のファイル           2,372,800 バイト
+
+ C:\Program Files\Wireshark\printsupport のディレクトリ
+
+2017/10/11  03:53            58,016 windowsprintersupport.dll
+               1 個のファイル              58,016 バイト
+
+     ファイルの総数:
+             371 個のファイル         301,661,448 バイト
+               0 個のディレクトリ  17,069,596,672 バイトの空き領域

@@ -1,0 +1,49 @@
+"C:\ProgramData" 
+■/tw 最終更新日時  
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は F0A2-C27B です
+
+ C:\ProgramData\Microsoft\IdentityCRL\INT のディレクトリ
+
+2017/09/29  22:44            25,312 ppcrlconfig600.dll
+               1 個のファイル              25,312 バイト
+
+ C:\ProgramData\Microsoft\IdentityCRL\production のディレクトリ
+
+2018/01/15  16:50            24,800 ppcrlconfig600.dll
+               1 個のファイル              24,800 バイト
+
+ C:\ProgramData\Microsoft\Windows Defender\Definition Updates\Backup のディレクトリ
+
+2017/08/24  09:30        13,482,976 mpengine.dll
+               1 個のファイル          13,482,976 バイト
+
+ C:\ProgramData\Microsoft\Windows Defender\Definition Updates\Default のディレクトリ
+
+2017/09/29  22:41         1,078,240 GapaEngine.dll
+2017/09/29  22:41        13,482,976 MpEngine.dll
+               2 個のファイル          14,561,216 バイト
+
+ C:\ProgramData\Microsoft\Windows Defender\Definition Updates\NisBackup のディレクトリ
+
+2017/08/24  09:32         1,078,240 gapaengine.dll
+               1 個のファイル           1,078,240 バイト
+
+ C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{4F71CB3A-4610-443A-BFF4-0859B7095DC8} のディレクトリ
+
+2017/11/21  17:47         1,057,976 gapaengine.dll
+               1 個のファイル           1,057,976 バイト
+
+ C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{5407FC67-2414-4482-9F97-175BEBF7E867} のディレクトリ
+
+2017/08/24  09:32         1,078,240 gapaengine.dll
+               1 個のファイル           1,078,240 バイト
+
+ C:\ProgramData\Microsoft\Windows Defender\Definition Updates\{A6A33FFB-663D-44F2-B978-893B73B32A73} のディレクトリ
+
+2017/11/21  17:47        13,771,264 mpengine.dll
+               1 個のファイル          13,771,264 バイト
+
+     ファイルの総数:
+               9 個のファイル          45,080,024 バイト
+               0 個のディレクトリ  17,069,477,888 バイトの空き領域

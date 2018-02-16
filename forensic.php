@@ -119,6 +119,7 @@ function get_vmstatus()
     $count = 0;
     foreach($vm_status as $val) {
         if ($val == "off") break;
+        if ($val == "in") break;
         if ($val == "shut") $val = $val."off";
         if ($count == 0) {
             echo '<tr>';
@@ -203,14 +204,88 @@ function vm_forensic()
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1">-->
     <title>LikeEDR?</title>
+  <!-- Tell the browser to be responsive to screen width -->
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <link href="./bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="./bootstrap/js/bootstrap.min.js"></script>
+
+  <!-- Tell the browser to be responsive to screen width -->
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
+    <!-- Ionicons -->
+    <link rel="stylesheet" href="bower_components/Ionicons/css/ionicons.min.css">
+    <!-- Theme style -->
+    <link rel="stylesheet" href="dist/css/AdminLTE.min.css">
+    <!-- AdminLTE Skins. We have chosen the skin-blue for this starter
+          page. However, you can choose any other skin. Make sure you
+          apply the skin class to the body tag so the changes take effect. -->
+    <link rel="stylesheet" href="dist/css/skins/skin-blue.min.css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Google Font -->
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
   </head>
-  <body>
-  <h1>LikeEDR? for KVM</h1>
+
+<body class="hold-transition skin-blue sidebar-mini">
+<!--<body class="skin-blue">-->
+<div class="wrapper">
+
+<!-- Main Header -->
+<header class="main-header">
+<!-- Logo -->
+<a href="index2.html" class="logo">
+<!-- mini logo for sidebar mini 50x50 pixels -->
+<!--
+<span class="logo-mini"><b>A</b>LT</span>
+-->
+<!-- logo for regular state and mobile devices -->
+<span class="logo-lg"><b>Like</b>EDR?</span>
+</a>
+<!-- トップメニュー -->
+<nav class="navbar navbar-static-top" role="navigation">
+<ul class="nav navbar-nav">
+<li><a href="">顧客管理</a></li>
+</ul>
+</nav>
+</header>
+
+<!-- サイドバー -->
+<aside class="main-sidebar">
+<section class="sidebar">
+<ul class="sidebar-menu">
+
+<!-- メニューヘッダ -->
+<li class="header">機能一覧</li>
+
+<!-- メニュー項目 -->
+<li><a href="">新規登録</a></li>
+
+</ul>
+</section>
+</aside><!-- end sidebar -->
+
+<div class="content-wrapper">
+<!-- コンテンツヘッダ -->
+<section class="content-header">
+<h1>VM status & Information</h1>
+</section>
+
+<section class="content">
+<div class="box">
+ <div class="box-header with-border">
+  <!--<h3 class="box-title">LikeEDR? for KVM</h3>-->
+ </div>
     <div class="container">
     <div class="table-responsive">
     <table class="table table-bordered">
@@ -227,6 +302,20 @@ function vm_forensic()
     </tbody>
     </table>
     </div>
+    <iframe width="100%" height="100%" src=./honda/reporttest.html></iframe>
+    <script>
+    $('iframe')
+    .on('load', function(){
+    try {
+    $(this).height(this.contentWindow.document.documentElement.scrollHeight);
+    } catch (e) {
+    }
+    })
+    .trigger('load');
+    </script>
+    </div>
+    </div>
+    </section>
     </div>
     <p>
       <button type="button" class="btn btn-primary btn-lg">Large button</button>

@@ -1,0 +1,472 @@
+"C:\Users\honda" 
+■/tc 作成日時 
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は F0A2-C27B です
+
+ C:\Users\honda\AppData\Local\Google\Chrome\User Data\SwReporter\24.136.201 のディレクトリ
+
+2017/12/09  23:29        12,928,632 software_reporter_tool.exe
+               1 個のファイル          12,928,632 バイト
+
+ C:\Users\honda\AppData\Local\lxss\home\honda\Python-3.6.2\Lib\distutils\command のディレクトリ
+
+2017/09/05  12:32           222,208 wininst-10.0-amd64.exe
+2017/09/05  12:32           190,976 wininst-10.0.exe
+2017/09/05  12:32           587,776 wininst-14.0-amd64.exe
+2017/09/05  12:32           458,240 wininst-14.0.exe
+2017/09/05  12:32            61,440 wininst-6.0.exe
+2017/09/05  12:32            65,536 wininst-7.1.exe
+2017/09/05  12:32            61,440 wininst-8.0.exe
+2017/09/05  12:32           224,256 wininst-9.0-amd64.exe
+2017/09/05  12:32           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/07  12:22           222,208 wininst-10.0-amd64.exe
+2017/09/07  12:22           190,976 wininst-10.0.exe
+2017/09/07  12:22           587,776 wininst-14.0-amd64.exe
+2017/09/07  12:22           458,240 wininst-14.0.exe
+2017/09/07  12:22            61,440 wininst-6.0.exe
+2017/09/07  12:22            65,536 wininst-7.1.exe
+2017/09/07  12:22            61,440 wininst-8.0.exe
+2017/09/07  12:22           224,256 wininst-9.0-amd64.exe
+2017/09/07  12:22           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/07  12:56            89,088 t32.exe
+2017/09/07  12:56            97,792 t64.exe
+2017/09/07  12:56            85,504 w32.exe
+2017/09/07  12:56            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\pkgs\pip-9.0.1-py36_1\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/07  12:56            89,088 t32.exe
+2017/09/07  12:56            97,792 t64.exe
+2017/09/07  12:56            85,504 w32.exe
+2017/09/07  12:56            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\pkgs\python-3.6.1-2\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/07  12:22           222,208 wininst-10.0-amd64.exe
+2017/09/07  12:22           190,976 wininst-10.0.exe
+2017/09/07  12:22           587,776 wininst-14.0-amd64.exe
+2017/09/07  12:22           458,240 wininst-14.0.exe
+2017/09/07  12:22            61,440 wininst-6.0.exe
+2017/09/07  12:22            65,536 wininst-7.1.exe
+2017/09/07  12:22            61,440 wininst-8.0.exe
+2017/09/07  12:22           224,256 wininst-9.0-amd64.exe
+2017/09/07  12:22           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/06  09:38           222,208 wininst-10.0-amd64.exe
+2017/09/06  09:38           190,976 wininst-10.0.exe
+2017/09/06  09:38           587,776 wininst-14.0-amd64.exe
+2017/09/06  09:38           458,240 wininst-14.0.exe
+2017/09/06  09:38            61,440 wininst-6.0.exe
+2017/09/06  09:38            65,536 wininst-7.1.exe
+2017/09/06  09:38            61,440 wininst-8.0.exe
+2017/09/06  09:38           224,256 wininst-9.0-amd64.exe
+2017/09/06  09:38           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/06  09:41            89,088 t32.exe
+2017/09/06  09:41            97,792 t64.exe
+2017/09/06  09:41            85,504 w32.exe
+2017/09/06  09:41            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\site-packages\setuptools のディレクトリ
+
+2017/09/06  09:41            65,536 cli-32.exe
+2017/09/06  09:41            74,752 cli-64.exe
+2017/09/06  09:41            65,536 cli.exe
+2017/09/06  09:41            65,536 gui-32.exe
+2017/09/06  09:41            75,264 gui-64.exe
+2017/09/06  09:41            65,536 gui.exe
+               6 個のファイル             412,160 バイト
+
+ C:\Users\honda\Downloads のディレクトリ
+
+2017/11/29  11:43         1,002,374 FavBinEdit-1-2-0.exe
+2017/12/07  16:46         7,013,752 FileZilla_3.25.2_win64-setup.exe
+2017/12/07  16:47         7,916,104 FileZilla_3.29.0_win64-setup.exe
+2017/12/07  16:45         2,241,216 FileZilla_Server-0_9_60_2.exe
+2017/10/30  13:41         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+2017/11/16  11:04        57,888,880 Wireshark-win64-2.4.2.exe
+               6 個のファイル          85,350,598 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構 のディレクトリ
+
+2017/10/12  14:28       415,237,664 VEGAS_Pro_15.0.0.216_JP_Trial_x64.exe
+2017/12/18  08:05         1,193,696 ve_setup_full1103.exe
+               2 個のファイル         416,431,360 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\my\cti\挙動\添付\添付\挙動確認ツール_20170104-3(最新版) のディレクトリ
+
+2016/01/17  20:26           351,840 BrowsingHistoryView.exe
+2012/08/01  13:27           643,696 autoruns.exe
+2010/11/18  21:27           587,776 7za.exe
+               3 個のファイル           1,583,312 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\my\soft のディレクトリ
+
+2017/07/10  21:49         4,344,544 lfsetup_1_6_6.exe
+2017/07/10  21:48        17,806,264 PDFXVwer.exe
+2017/07/23  20:56        54,303,648 KindleForPC-installer-1.20.47037.exe
+2017/08/09  14:54        42,427,755 FreeMind-Windows-Installer-1.1.0_Beta_2-max.exe
+2017/09/21  12:37       123,929,944 VirtualBox-5.1.28-117968-Win.exe
+               5 個のファイル         242,812,155 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904 のディレクトリ
+
+2017/09/04  09:32         9,166,680 WinSCP-5.9.6-Setup.exe
+2017/09/04  09:31        14,124,703 teraterm-4.95.exe
+2017/09/04  09:31         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904\UT35A\Python-PC のディレクトリ
+
+2017/09/04  09:32       458,893,576 Anaconda3-4.4.0-Windows-x86_64.exe
+2017/09/04  09:32       153,946,048 pycharm-community-2017.1.4.exe
+               2 個のファイル         612,839,624 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\20170824_RaspberryPi のディレクトリ
+
+2017/08/24  12:39         9,166,680 WinSCP-5.9.6-Setup.exe
+2017/08/24  12:18        14,124,703 teraterm-4.95.exe
+2017/08/24  12:06         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904-DESKTOP-BS8EF8T のディレクトリ
+
+2017/08/24  12:39         9,166,680 WinSCP-5.9.6-Setup.exe
+2017/08/24  12:18        14,124,703 teraterm-4.95.exe
+2017/08/24  12:06         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+     ファイルの総数:
+              82 個のファイル       1,479,468,454 バイト
+               0 個のディレクトリ  17,063,178,240 バイトの空き領域
+■/ta 最終アクセス日時 
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は F0A2-C27B です
+
+ C:\Users\honda\AppData\Local\Google\Chrome\User Data\SwReporter\24.136.201 のディレクトリ
+
+2017/12/09  23:29        12,928,632 software_reporter_tool.exe
+               1 個のファイル          12,928,632 バイト
+
+ C:\Users\honda\AppData\Local\lxss\home\honda\Python-3.6.2\Lib\distutils\command のディレクトリ
+
+2017/09/05  12:32           222,208 wininst-10.0-amd64.exe
+2017/09/05  12:32           190,976 wininst-10.0.exe
+2017/09/05  12:32           587,776 wininst-14.0-amd64.exe
+2017/09/05  12:32           458,240 wininst-14.0.exe
+2017/09/05  12:32            61,440 wininst-6.0.exe
+2017/09/05  12:32            65,536 wininst-7.1.exe
+2017/09/05  12:32            61,440 wininst-8.0.exe
+2017/09/05  12:32           224,256 wininst-9.0-amd64.exe
+2017/09/05  12:32           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/07  12:22           222,208 wininst-10.0-amd64.exe
+2017/09/07  12:22           190,976 wininst-10.0.exe
+2017/09/07  12:22           587,776 wininst-14.0-amd64.exe
+2017/09/07  12:22           458,240 wininst-14.0.exe
+2017/09/07  12:22            61,440 wininst-6.0.exe
+2017/09/07  12:22            65,536 wininst-7.1.exe
+2017/09/07  12:22            61,440 wininst-8.0.exe
+2017/09/07  12:22           224,256 wininst-9.0-amd64.exe
+2017/09/07  12:22           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/07  12:56            89,088 t32.exe
+2017/09/07  12:56            97,792 t64.exe
+2017/09/07  12:56            85,504 w32.exe
+2017/09/07  12:56            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\pkgs\pip-9.0.1-py36_1\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/07  12:56            89,088 t32.exe
+2017/09/07  12:56            97,792 t64.exe
+2017/09/07  12:56            85,504 w32.exe
+2017/09/07  12:56            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\pkgs\python-3.6.1-2\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/07  12:22           222,208 wininst-10.0-amd64.exe
+2017/09/07  12:22           190,976 wininst-10.0.exe
+2017/09/07  12:22           587,776 wininst-14.0-amd64.exe
+2017/09/07  12:22           458,240 wininst-14.0.exe
+2017/09/07  12:22            61,440 wininst-6.0.exe
+2017/09/07  12:22            65,536 wininst-7.1.exe
+2017/09/07  12:22            61,440 wininst-8.0.exe
+2017/09/07  12:22           224,256 wininst-9.0-amd64.exe
+2017/09/07  12:22           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/06  09:38           222,208 wininst-10.0-amd64.exe
+2017/09/06  09:38           190,976 wininst-10.0.exe
+2017/09/06  09:38           587,776 wininst-14.0-amd64.exe
+2017/09/06  09:38           458,240 wininst-14.0.exe
+2017/09/06  09:38            61,440 wininst-6.0.exe
+2017/09/06  09:38            65,536 wininst-7.1.exe
+2017/09/06  09:38            61,440 wininst-8.0.exe
+2017/09/06  09:38           224,256 wininst-9.0-amd64.exe
+2017/09/06  09:38           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/06  09:41            89,088 t32.exe
+2017/09/06  09:41            97,792 t64.exe
+2017/09/06  09:41            85,504 w32.exe
+2017/09/06  09:41            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\site-packages\setuptools のディレクトリ
+
+2017/09/06  09:41            65,536 cli-32.exe
+2017/09/06  09:41            74,752 cli-64.exe
+2017/09/06  09:41            65,536 cli.exe
+2017/09/06  09:41            65,536 gui-32.exe
+2017/09/06  09:41            75,264 gui-64.exe
+2017/09/06  09:41            65,536 gui.exe
+               6 個のファイル             412,160 バイト
+
+ C:\Users\honda\Downloads のディレクトリ
+
+2017/11/29  11:43         1,002,374 FavBinEdit-1-2-0.exe
+2017/12/07  16:46         7,013,752 FileZilla_3.25.2_win64-setup.exe
+2017/12/07  16:47         7,916,104 FileZilla_3.29.0_win64-setup.exe
+2017/12/07  16:45         2,241,216 FileZilla_Server-0_9_60_2.exe
+2017/10/30  13:41         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+2017/11/16  11:04        57,888,880 Wireshark-win64-2.4.2.exe
+               6 個のファイル          85,350,598 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構 のディレクトリ
+
+2018/01/30  14:49       415,237,664 VEGAS_Pro_15.0.0.216_JP_Trial_x64.exe
+2018/01/30  14:49         1,193,696 ve_setup_full1103.exe
+               2 個のファイル         416,431,360 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\my\cti\挙動\添付\添付\挙動確認ツール_20170104-3(最新版) のディレクトリ
+
+2018/01/30  16:12           351,840 BrowsingHistoryView.exe
+2018/01/30  16:12           643,696 autoruns.exe
+2018/01/30  16:18           587,776 7za.exe
+               3 個のファイル           1,583,312 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\my\soft のディレクトリ
+
+2018/01/30  16:18         4,344,544 lfsetup_1_6_6.exe
+2018/01/30  16:18        17,806,264 PDFXVwer.exe
+2018/01/30  16:18        54,303,648 KindleForPC-installer-1.20.47037.exe
+2018/01/30  16:18        42,427,755 FreeMind-Windows-Installer-1.1.0_Beta_2-max.exe
+2018/01/30  16:18       123,929,944 VirtualBox-5.1.28-117968-Win.exe
+               5 個のファイル         242,812,155 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904 のディレクトリ
+
+2018/01/30  16:19         9,166,680 WinSCP-5.9.6-Setup.exe
+2018/01/30  16:19        14,124,703 teraterm-4.95.exe
+2018/01/30  16:19         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904\UT35A\Python-PC のディレクトリ
+
+2018/01/30  16:19       458,893,576 Anaconda3-4.4.0-Windows-x86_64.exe
+2018/01/30  16:19       153,946,048 pycharm-community-2017.1.4.exe
+               2 個のファイル         612,839,624 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\20170824_RaspberryPi のディレクトリ
+
+2018/01/30  16:19         9,166,680 WinSCP-5.9.6-Setup.exe
+2018/01/30  16:19        14,124,703 teraterm-4.95.exe
+2018/01/30  16:19         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904-DESKTOP-BS8EF8T のディレクトリ
+
+2018/01/30  16:19         9,166,680 WinSCP-5.9.6-Setup.exe
+2018/01/30  16:19        14,124,703 teraterm-4.95.exe
+2018/01/30  16:19         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+     ファイルの総数:
+              82 個のファイル       1,479,468,454 バイト
+               0 個のディレクトリ  17,062,043,648 バイトの空き領域
+■/tw 最終更新日時  
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は F0A2-C27B です
+
+ C:\Users\honda\AppData\Local\Google\Chrome\User Data\SwReporter\24.136.201 のディレクトリ
+
+2017/12/07  13:47        12,928,632 software_reporter_tool.exe
+               1 個のファイル          12,928,632 バイト
+
+ C:\Users\honda\AppData\Local\lxss\home\honda\Python-3.6.2\Lib\distutils\command のディレクトリ
+
+2017/09/05  12:32           222,208 wininst-10.0-amd64.exe
+2017/09/05  12:32           190,976 wininst-10.0.exe
+2017/09/05  12:32           587,776 wininst-14.0-amd64.exe
+2017/09/05  12:32           458,240 wininst-14.0.exe
+2017/09/05  12:32            61,440 wininst-6.0.exe
+2017/09/05  12:32            65,536 wininst-7.1.exe
+2017/09/05  12:32            61,440 wininst-8.0.exe
+2017/09/05  12:32           224,256 wininst-9.0-amd64.exe
+2017/09/05  12:32           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/07  12:22           222,208 wininst-10.0-amd64.exe
+2017/09/07  12:22           190,976 wininst-10.0.exe
+2017/09/07  12:22           587,776 wininst-14.0-amd64.exe
+2017/09/07  12:22           458,240 wininst-14.0.exe
+2017/09/07  12:22            61,440 wininst-6.0.exe
+2017/09/07  12:22            65,536 wininst-7.1.exe
+2017/09/07  12:22            61,440 wininst-8.0.exe
+2017/09/07  12:22           224,256 wininst-9.0-amd64.exe
+2017/09/07  12:22           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/07  12:56            89,088 t32.exe
+2017/09/07  12:56            97,792 t64.exe
+2017/09/07  12:56            85,504 w32.exe
+2017/09/07  12:56            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\pkgs\pip-9.0.1-py36_1\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/07  12:56            89,088 t32.exe
+2017/09/07  12:56            97,792 t64.exe
+2017/09/07  12:56            85,504 w32.exe
+2017/09/07  12:56            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\anaconda3\pkgs\python-3.6.1-2\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/07  12:22           222,208 wininst-10.0-amd64.exe
+2017/09/07  12:22           190,976 wininst-10.0.exe
+2017/09/07  12:22           587,776 wininst-14.0-amd64.exe
+2017/09/07  12:22           458,240 wininst-14.0.exe
+2017/09/07  12:22            61,440 wininst-6.0.exe
+2017/09/07  12:22            65,536 wininst-7.1.exe
+2017/09/07  12:22            61,440 wininst-8.0.exe
+2017/09/07  12:22           224,256 wininst-9.0-amd64.exe
+2017/09/07  12:22           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\distutils\command のディレクトリ
+
+2017/09/06  09:38           222,208 wininst-10.0-amd64.exe
+2017/09/06  09:38           190,976 wininst-10.0.exe
+2017/09/06  09:38           587,776 wininst-14.0-amd64.exe
+2017/09/06  09:38           458,240 wininst-14.0.exe
+2017/09/06  09:38            61,440 wininst-6.0.exe
+2017/09/06  09:38            65,536 wininst-7.1.exe
+2017/09/06  09:38            61,440 wininst-8.0.exe
+2017/09/06  09:38           224,256 wininst-9.0-amd64.exe
+2017/09/06  09:38           196,096 wininst-9.0.exe
+               9 個のファイル           2,067,968 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\site-packages\pip\_vendor\distlib のディレクトリ
+
+2017/09/06  09:41            89,088 t32.exe
+2017/09/06  09:41            97,792 t64.exe
+2017/09/06  09:41            85,504 w32.exe
+2017/09/06  09:41            94,208 w64.exe
+               4 個のファイル             366,592 バイト
+
+ C:\Users\honda\AppData\Local\lxss\rootfs\usr\local\lib\python3.6\site-packages\setuptools のディレクトリ
+
+2017/09/06  09:41            65,536 cli-32.exe
+2017/09/06  09:41            74,752 cli-64.exe
+2017/09/06  09:41            65,536 cli.exe
+2017/09/06  09:41            65,536 gui-32.exe
+2017/09/06  09:41            75,264 gui-64.exe
+2017/09/06  09:41            65,536 gui.exe
+               6 個のファイル             412,160 バイト
+
+ C:\Users\honda\Downloads のディレクトリ
+
+2017/11/29  11:43         1,002,374 FavBinEdit-1-2-0.exe
+2017/12/07  16:46         7,013,752 FileZilla_3.25.2_win64-setup.exe
+2017/12/07  16:47         7,916,104 FileZilla_3.29.0_win64-setup.exe
+2017/12/07  16:45         2,241,216 FileZilla_Server-0_9_60_2.exe
+2017/10/30  13:41         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+2017/11/16  11:04        57,888,880 Wireshark-win64-2.4.2.exe
+               6 個のファイル          85,350,598 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構 のディレクトリ
+
+2017/10/12  14:28       415,237,664 VEGAS_Pro_15.0.0.216_JP_Trial_x64.exe
+2017/12/18  08:05         1,193,696 ve_setup_full1103.exe
+               2 個のファイル         416,431,360 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\my\cti\挙動\添付\添付\挙動確認ツール_20170104-3(最新版) のディレクトリ
+
+2016/01/17  20:26           351,840 BrowsingHistoryView.exe
+2012/08/01  13:27           643,696 autoruns.exe
+2010/11/18  21:27           587,776 7za.exe
+               3 個のファイル           1,583,312 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\my\soft のディレクトリ
+
+2017/07/10  21:49         4,344,544 lfsetup_1_6_6.exe
+2017/07/10  21:48        17,806,264 PDFXVwer.exe
+2017/07/23  20:56        54,303,648 KindleForPC-installer-1.20.47037.exe
+2017/08/09  14:54        42,427,755 FreeMind-Windows-Installer-1.1.0_Beta_2-max.exe
+2017/09/21  12:37       123,929,944 VirtualBox-5.1.28-117968-Win.exe
+               5 個のファイル         242,812,155 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904 のディレクトリ
+
+2017/08/24  12:39         9,166,680 WinSCP-5.9.6-Setup.exe
+2017/08/24  12:18        14,124,703 teraterm-4.95.exe
+2017/08/24  12:06         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904\UT35A\Python-PC のディレクトリ
+
+2017/06/19  23:39       458,893,576 Anaconda3-4.4.0-Windows-x86_64.exe
+2017/06/19  20:03       153,946,048 pycharm-community-2017.1.4.exe
+               2 個のファイル         612,839,624 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\20170824_RaspberryPi のディレクトリ
+
+2017/08/24  12:39         9,166,680 WinSCP-5.9.6-Setup.exe
+2017/08/24  12:18        14,124,703 teraterm-4.95.exe
+2017/08/24  12:06         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+ C:\Users\honda\OneDrive - 独立行政法人情報処理推進機構\講義\プライマリー\制御プログラミング\橋本先生_20170904-DESKTOP-BS8EF8T のディレクトリ
+
+2017/08/24  12:39         9,166,680 WinSCP-5.9.6-Setup.exe
+2017/08/24  12:18        14,124,703 teraterm-4.95.exe
+2017/08/24  12:06         9,288,272 VNC-Viewer-6.17.731-Windows.exe
+               3 個のファイル          32,579,655 バイト
+
+     ファイルの総数:
+              82 個のファイル       1,479,468,454 バイト
+               0 個のディレクトリ  17,062,043,648 バイトの空き領域

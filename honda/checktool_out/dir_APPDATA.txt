@@ -1,0 +1,3073 @@
+"C:\Users\honda\AppData\Roaming" 
+■/tc 作成日時 
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は F0A2-C27B です
+
+ C:\Users\honda\AppData\Roaming のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2017/08/23  17:20    <DIR>          Adobe
+2017/09/01  10:10    <DIR>          Fenrir Inc
+2017/12/07  16:47    <DIR>          FileZilla
+2017/08/28  09:47    <DIR>          LhaForge
+2017/10/30  13:42    <DIR>          RealVNC
+2017/08/31  13:23    <DIR>          sakura
+2017/08/24  09:24    <DIR>          Skype
+2017/11/29  15:21    <DIR>          Wireshark
+2017/11/20  16:02    <DIR>          yWorks
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          Flash Player
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe\Flash Player のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          NativeCache
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe\Flash Player\NativeCache のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Fenrir Inc のディレクトリ
+
+2017/09/01  10:10    <DIR>          .
+2017/09/01  10:10    <DIR>          ..
+2017/09/01  10:10    <DIR>          SnapCrab for Windows
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Fenrir Inc\SnapCrab for Windows のディレクトリ
+
+2017/09/01  10:10    <DIR>          .
+2017/09/01  10:10    <DIR>          ..
+2017/09/01  10:10               958 SnapCrab.ini
+               1 個のファイル                 958 バイト
+
+ C:\Users\honda\AppData\Roaming\FileZilla のディレクトリ
+
+2017/12/07  16:47    <DIR>          .
+2017/12/07  16:47    <DIR>          ..
+2017/12/07  16:47            11,609 filezilla.xml
+2017/12/07  16:47               769 layout.xml
+2017/12/07  16:47            28,672 queue.sqlite3
+2017/12/07  16:48               582 recentservers.xml
+               4 個のファイル              41,632 バイト
+
+ C:\Users\honda\AppData\Roaming\LhaForge のディレクトリ
+
+2017/08/28  09:47    <DIR>          .
+2017/08/28  09:47    <DIR>          ..
+2017/08/28  09:50             5,936 LhaForge.ini
+               1 個のファイル               5,936 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft のディレクトリ
+
+2017/08/28  16:48    <DIR>          AddIns
+2018/01/15  16:48    <DIR>          Crypto
+2017/08/28  16:48    <DIR>          Excel
+2017/12/01  09:55    <DIR>          HTML Help
+2017/08/23  17:20    <DIR>          IME
+2017/08/28  17:00    <DIR>          InputMethod
+2017/08/23  17:20    <DIR>          Internet Explorer
+2017/08/30  10:38    <DIR>          MMC
+2018/01/15  16:48    <DIR>          Network
+2017/08/28  16:58    <DIR>          Office
+2017/08/29  14:30    <DIR>          PowerPoint
+2017/09/11  16:20    <DIR>          Publisher
+2017/09/11  16:21    <DIR>          Publisher Building Blocks
+2017/08/24  10:36    <DIR>          Spelling
+2018/01/15  16:48    <DIR>          SystemCertificates
+2017/08/28  16:57    <DIR>          Templates
+2017/08/29  14:37    <DIR>          UProof
+2017/08/24  09:22    <DIR>          Vault
+2018/01/15  16:44    <DIR>          Windows
+2017/08/28  16:58    <DIR>          Word
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\AddIns のディレクトリ
+
+2017/08/28  16:48    <DIR>          .
+2017/08/28  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Crypto のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Excel のディレクトリ
+
+2017/08/28  16:48    <DIR>          .
+2017/08/28  16:48    <DIR>          ..
+2017/09/13  14:29            10,428 Excel15.xlb
+               1 個のファイル              10,428 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\HTML Help のディレクトリ
+
+2017/12/01  09:55    <DIR>          .
+2017/12/01  09:55    <DIR>          ..
+2017/12/01  09:55             8,590 hh.dat
+               1 個のファイル               8,590 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          15.0
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0 のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          IMEJP
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0\IMEJP のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          UserDict
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0\IMEJP\UserDict のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/28  16:59           299,008 imjp15cu.dic
+2017/08/28  16:59                 2 imjp15cu.dic_bak
+               2 個のファイル             299,010 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\InputMethod のディレクトリ
+
+2017/08/28  17:00    <DIR>          .
+2017/08/28  17:00    <DIR>          ..
+2017/08/28  17:00    <DIR>          Shared
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\InputMethod\Shared のディレクトリ
+
+2017/08/28  17:00    <DIR>          .
+2017/08/28  17:00    <DIR>          ..
+2017/08/28  17:00           146,634 JpnIHDS.dat
+               1 個のファイル             146,634 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          Quick Launch
+2017/08/23  17:20    <DIR>          UserData
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/24  16:04             2,346 Google Chrome.lnk
+2018/01/15  16:44               352 Shows Desktop.lnk
+2018/01/15  16:44               334 Window Switcher.lnk
+2017/11/16  11:11             1,839 Wireshark.lnk
+2017/08/31  13:23             1,076 サクラエディタ.lnk
+               5 個のファイル               5,947 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned のディレクトリ
+
+2017/08/23  17:20    <DIR>          ImplicitAppShortcuts
+2017/08/23  17:21    <DIR>          TaskBar
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/08/23  17:21               407 File Explorer.lnk
+2017/08/28  16:20             2,258 Google Chrome.lnk
+2017/08/28  16:19               861 TextTree.lnk
+2017/09/12  11:06             1,070 サクラエディタ.lnk
+               4 個のファイル               4,596 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\UserData のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          Low
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\UserData\Low のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\MMC のディレクトリ
+
+2017/08/30  10:38    <DIR>          .
+2017/08/30  10:38    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:48    <DIR>          Connections
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:48    <DIR>          Cm
+2017/08/23  17:21    <DIR>          Pbk
+2018/01/15  16:48    <DIR>          _hiddencm
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Cm のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Pbk のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/08/23  17:21    <DIR>          _hiddenPbk
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/08/23  17:21                 0 rasphone.pbk
+               1 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\_hiddencm のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office のディレクトリ
+
+2017/08/28  16:58    <DIR>          .
+2017/08/28  16:58    <DIR>          ..
+2017/08/29  14:36    <DIR>          16.0
+2017/12/12  12:01           175,748 fbc823B.tmp
+2017/08/29  14:44            13,202 MSO0127.acl
+2017/08/28  16:58            37,786 MSO1033.acl
+2017/08/28  16:58    <DIR>          Recent
+               3 個のファイル             226,736 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0 のディレクトリ
+
+2017/08/29  14:36    <DIR>          .
+2017/08/29  14:36    <DIR>          ..
+2017/08/29  14:36    <DIR>          6e23e3d0
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0\6e23e3d0 のディレクトリ
+
+2017/08/29  14:36    <DIR>          .
+2017/08/29  14:36    <DIR>          ..
+2017/08/29  14:36    <DIR>          Proofing
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0\6e23e3d0\Proofing のディレクトリ
+
+2017/08/29  14:36    <DIR>          .
+2017/08/29  14:36    <DIR>          ..
+2017/08/29  14:36               492 RoamingCustom.dic
+               1 個のファイル                 492 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\Recent のディレクトリ
+
+2017/08/28  16:58    <DIR>          .
+2017/08/28  16:58    <DIR>          ..
+2017/12/12  10:29               604 171201_監視カメラ攻撃報告.pptx.LNK
+2017/12/13  15:39             1,407 201712_報告.pptx.LNK
+2017/12/12  12:04             1,349 201712_防衛技術・ペネトレーション.pptx.LNK
+2017/12/13  17:33             1,366 201712_防衛技術・ペネトレーション_正式.pptx.LNK
+2017/09/14  19:00             1,311 c170062_ポスターセッション.pub.LNK
+2017/09/13  13:08               126 icscoe-my.sharepoint.com の 0724.url
+2017/09/11  16:44               137 icscoe-my.sharepoint.com の 0724_橋本先生_六人組.url
+2017/09/13  11:39               112 icscoe-my.sharepoint.com の 海外演習.url
+2017/08/29  14:29               121 icscoe-my.sharepoint.com の 越島先生.url
+2017/08/28  16:58             1,164 Templates.LNK
+2017/09/11  16:37             1,277 ポスターセッション.pub.LNK
+              11 個のファイル               8,974 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/12/13  15:50    <DIR>          201712_防衛技術・ペネトレーション306349743000118561
+2017/09/13  17:15                18 PPT16.pcb
+2017/12/13  17:38    <DIR>          SlideViewState
+               1 個のファイル                  18 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint\201712_防衛技術・ペネトレーション306349743000118561 のディレクトリ
+
+2017/12/13  15:50    <DIR>          .
+2017/12/13  15:50    <DIR>          ..
+2017/12/13  16:01         7,577,394 201712_防衛技術・ペネトレーション((Autosaved-306350512660251775)).ppt
+2017/12/13  16:22         7,580,257 201712_防衛技術・ペネトレーション((Autosaved-306350542273349798)).ppt
+2017/12/13  16:32         7,583,190 201712_防衛技術・ペネトレーション((Autosaved-306350554186302836)).ppt
+2017/12/13  16:48         7,584,152 201712_防衛技術・ペネトレーション((Autosaved-306350580987165868)).ppt
+2017/12/13  17:25         7,584,804 201712_防衛技術・ペネトレーション((Autosaved-306350631883456567)).ppt
+2017/12/13  15:50             1,212 201712_防衛技術・ペネトレーション.pptx.lnk
+               6 個のファイル          37,911,009 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint\SlideViewState のディレクトリ
+
+2017/12/13  17:38    <DIR>          .
+2017/12/13  17:38    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Publisher のディレクトリ
+
+2017/09/11  16:20    <DIR>          .
+2017/09/11  16:20    <DIR>          ..
+2017/09/14  17:37               396 PubAPSet.xml
+2017/09/11  17:00             1,075 pubcmd16.dat
+               2 個のファイル               1,471 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Publisher Building Blocks のディレクトリ
+
+2017/09/11  16:21    <DIR>          .
+2017/09/11  16:21    <DIR>          ..
+2017/09/11  16:21               168 ContentStore.xml
+               1 個のファイル                 168 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2017/08/24  10:36    <DIR>          en-LR
+2017/08/24  10:36    <DIR>          ja-Latn-JP-x-ext
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling\en-LR のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2017/08/24  10:36                 2 default.acl
+2017/08/24  10:36                 2 default.dic
+2017/08/24  10:36                 2 default.exc
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling\ja-Latn-JP-x-ext のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2017/08/24  10:36                 2 default.acl
+2017/08/24  10:36                 2 default.dic
+2017/08/24  10:36                 2 default.exc
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\SystemCertificates のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:48    <DIR>          My
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\SystemCertificates\My のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates のディレクトリ
+
+2017/08/28  16:57    <DIR>          .
+2017/08/28  16:57    <DIR>          ..
+2017/08/29  14:37    <DIR>          Document Themes
+2017/08/28  16:57           194,855 Excel へようこそ.xltx
+2017/08/29  14:30    <DIR>          LiveContent
+2017/08/28  16:58            19,096 Normal.dotm
+2017/10/02  18:18    <DIR>          SmartArt Graphics
+2017/08/28  16:57           443,125 キャッシュ フローの分析.xltm
+               3 個のファイル             657,076 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+2017/08/29  14:37    <DIR>          Theme Colors
+2017/08/29  14:37    <DIR>          Theme Effects
+2017/08/29  14:37    <DIR>          Theme Fonts
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Colors のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Effects のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Fonts のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          16
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          Managed
+2017/08/29  14:30    <DIR>          User
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          Document Themes
+2017/08/29  14:30    <DIR>          SmartArt Graphics
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Document Themes のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Document Themes\1041 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30           536,427 TM02772747[[fn=クール]].thmx
+2017/08/29  14:30            44,467 TM02836342[[fn=イオン]].thmx
+2017/08/29  14:30            49,620 TM02892315[[fn=ウィスプ]].thmx
+2017/08/29  14:30            49,620 TM02900688[[fn=ファセット]].thmx
+2017/08/29  14:30            49,620 TM02900720[[fn=インテグラル]].thmx
+2017/08/29  14:30            49,620 TM02900722[[fn=イオン ボードルーム]].thmx
+2017/08/29  14:30            49,620 TM02900743[[fn=オーガニック]].thmx
+2017/08/29  14:30         1,623,260 TM02900769[[fn=レトロスペクト]].thmx
+2017/08/29  14:30            49,620 TM02900771[[fn=スライス]].thmx
+2017/08/29  14:30           562,113 TM03090430[[fn=縞模様]].thmx
+2017/08/29  14:30         1,649,585 TM03090434[[fn=木版活字]].thmx
+2017/08/29  14:30           558,035 TM03457444[[fn=基礎]].thmx
+2017/08/29  14:30         3,296,405 TM03457452[[fn=天空]].thmx
+2017/08/29  14:30           570,901 TM03457464[[fn=配当]].thmx
+2017/08/29  14:30           523,048 TM03457475[[fn=フレーム]].thmx
+2017/08/29  14:30         3,078,052 TM03457485[[fn=メッシュ]].thmx
+2017/08/29  14:30           887,908 TM03457491[[fn=メトロポリタン]].thmx
+2017/08/29  14:30           924,687 TM03457496[[fn=視差]].thmx
+2017/08/29  14:30           966,946 TM03457503[[fn=クォータブル]].thmx
+2017/08/29  14:30         1,204,049 TM03457510[[fn=シャボン]].thmx
+2017/08/29  14:30           729,469 TM03457515[[fn=ビュー]].thmx
+2017/08/29  14:30         1,011,082 TM04033917[[fn=ベルリン]].thmx
+2017/08/29  14:30         1,463,634 TM04033919[[fn=回路]].thmx
+2017/08/29  14:30         2,218,943 TM04033921[[fn=ダマスク]].thmx
+2017/08/29  14:30         2,368,674 TM04033923[[fn=深海]].thmx
+2017/08/29  14:30         1,750,795 TM04033925[[fn=しずく]].thmx
+2017/08/29  14:30         2,924,237 TM04033927[[fn=メイン イベント]].thmx
+2017/08/29  14:30         2,357,051 TM04033929[[fn=石版]].thmx
+2017/08/29  14:30         3,611,324 TM04033937[[fn=飛行機雲]].thmx
+2017/10/02  13:08           536,604 TM10001105[[fn=トリミング]].thmx
+2017/10/02  13:08           663,937 TM10001106[[fn=バッジ]].thmx
+2017/08/29  14:30         1,091,485 TM10001114[[fn=ギャラリー]].thmx
+2017/08/29  14:30           608,122 TM10001115[[fn=パーセル]].thmx
+2017/08/29  14:30           857,650 TM16401371[[fn=アトラス]].thmx
+2017/08/29  14:30         2,443,359 TM16401375[[fn=マディソン]].thmx
+              35 個のファイル          41,359,969 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\SmartArt Graphics のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\SmartArt Graphics\1041 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          Document Themes
+2017/10/02  18:18    <DIR>          SmartArt Graphics
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\Document Themes のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\Document Themes\1041 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\SmartArt Graphics のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+2017/10/02  18:18    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\SmartArt Graphics\1041 のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\SmartArt Graphics のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\UProof のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+2017/08/29  14:37                 2 CUSTOM.DIC
+2017/08/29  14:37                 2 ExcludeDictionaryEN0409.lex
+2017/08/29  14:37                 2 ExcludeDictionaryJP0411.lex
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Vault のディレクトリ
+
+2017/08/24  09:22    <DIR>          .
+2017/08/24  09:22    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2018/01/15  16:51    <DIR>          AccountPictures
+2018/01/15  16:44    <DIR>          CloudStore
+2017/08/23  17:20    <DIR>          Libraries
+2018/01/15  16:44    <DIR>          Network Shortcuts
+2018/01/15  16:48    <DIR>          PowerShell
+2018/01/15  16:44    <DIR>          Printer Shortcuts
+2017/08/23  17:20    <DIR>          Recent
+2017/08/23  17:20    <DIR>          SendTo
+2017/08/23  17:20    <DIR>          Start Menu
+2018/01/15  16:44    <DIR>          Templates
+2018/01/15  16:52    <DIR>          Themes
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\AccountPictures のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\CloudStore のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Libraries のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/24  09:22             2,358 CameraRoll.library-ms
+2017/08/23  17:20             2,128 Documents.library-ms
+2017/08/23  17:20             2,107 Music.library-ms
+2017/08/23  17:20             2,124 Pictures.library-ms
+2017/08/24  09:23             2,370 SavedPictures.library-ms
+2017/08/23  17:20             2,114 Videos.library-ms
+               6 個のファイル              13,201 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Network Shortcuts のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\PowerShell のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2017/11/30  11:16    <DIR>          PSReadline
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline のディレクトリ
+
+2017/11/30  11:16    <DIR>          .
+2017/11/30  11:16    <DIR>          ..
+2017/11/30  11:16                39 ConsoleHost_history.txt
+               1 個のファイル                  39 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Printer Shortcuts のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/10/02  13:07               616 01.System X.pptx.lnk
+2017/10/02  13:07               636 01.SystemX_rev2.pptx.lnk
+2017/09/13  13:08               830 0724.lnk
+2017/09/11  16:45               869 0724_橋本先生_六人組.lnk
+2017/09/08  16:19             1,439 1.png.lnk
+2017/12/12  15:07             2,132 1294.jpg.lnk
+2017/11/10  15:12               605 147.bmp.lnk
+2017/11/10  15:15               605 148.bmp.lnk
+2017/11/10  15:16               605 149.bmp.lnk
+2017/11/10  15:17               605 150.bmp.lnk
+2017/12/12  10:29               650 171201_監視カメラ攻撃報告.pptx.lnk
+2017/09/08  11:54             1,374 2017-09-08.txt.lnk
+2017/12/05  17:05             1,186 2017-12-05_#1.txt.lnk
+2017/12/11  15:18               669 20171116_発表資料（本番）_v4.pptx.lnk
+2017/12/12  10:40               677 20171207_発電所_発表資料＿完成版.pptx.lnk
+2017/12/12  10:39               631 20171207＿検討内容.pptx.lnk
+2017/12/11  15:07               943 201712_ペネトレーション・防御技術.pptx.lnk
+2017/12/11  10:30             1,217 201712_報告.pptx.lnk
+2017/12/11  10:30               942 201712_朝会.lnk
+2017/12/12  12:04             1,129 201712_防衛技術・ペネトレーション.pptx.lnk
+2017/12/13  17:33             1,128 201712_防衛技術・ペネトレーション_正式.pptx.lnk
+2017/12/01  09:58               754 2回目.lnk
+2018/01/15  17:18               617 91999.png.lnk
+2018/01/15  17:19               629 91999_2.png.lnk
+2017/12/01  15:37               600 aaa.js.lnk
+2017/09/14  19:00               485 adsf.pdf.lnk
+2017/11/16  11:33               667 arpcache.py.lnk
+2017/11/27  17:01               667 ArpSpoof.py.lnk
+2017/08/23  17:21    <DIR>          AutomaticDestinations
+2017/12/01  09:55               633 BCP.lnk
+2017/09/14  18:59             1,478 C170062.lnk
+2017/09/14  18:59               903 c170062_ポスターセッション.pub.lnk
+2017/09/11  16:45             1,172 C170062_レーダチャート_本田_Rev2.xlsx.lnk
+2017/09/13  13:09             1,227 C170062_レーダチャート_本田_Rev3.xlsx.lnk
+2017/12/01  10:00               966 camera.mdpj.lnk
+2017/12/01  09:59               966 camera.mdwt.lnk
+2017/11/27  17:00               604 camera_auto.py.lnk
+2017/08/29  14:29               940 Chapter3.pptx.lnk
+2018/01/30  16:17             1,144 checktool_out.lnk
+2017/08/29  13:24               652 cssc_本田英之.jpg.lnk
+2017/08/29  13:24               652 cssc_本田英之.png.lnk
+2017/08/23  17:21    <DIR>          CustomDestinations
+2017/11/20  16:04             1,613 dat.lnk
+2018/01/30  16:17             1,555 dir_ALLUSERSPROFILE_dlls.txt.lnk
+2018/01/30  16:18             1,530 dir_Systemroot_dlls.txt.lnk
+2017/08/29  15:05               672 ds.lnk
+2017/08/29  15:24               669 fonts.lnk
+2017/08/29  15:09               677 ftp.lnk
+2017/11/17  10:45               194 http--www.msftconnecttest.com-redirect.lnk
+2017/09/07  15:28             1,464 IM05P05A01-02JA_090.pdf.lnk
+2017/11/29  11:07               596 IMG_0931.JPG.lnk
+2017/08/30  10:10             1,009 IPAfont00303.lnk
+2017/12/09  23:24               616 JpegAna142.lnk
+2017/12/09  23:23               993 JpegAna142.lzh.lnk
+2017/11/21  17:57               459 kaicho.jpg.lnk
+2017/12/05  13:21               629 kaicho2.jpg.lnk
+2017/09/08  16:19             1,201 kips_Team12_20170901.lnk
+2017/12/08  09:48               617 kyori.png.lnk
+2017/11/20  16:01             1,862 license.html.lnk
+2017/11/20  16:03             1,621 log.lnk
+2017/09/14  14:00               565 map.gif.lnk
+2017/11/02  11:13               172 ms-settingsnetwork-ethernet.lnk
+2017/08/30  13:19               154 ms-settingsnetwork.lnk
+2017/08/24  11:06               668 myRecording00.lnk
+2017/08/29  15:05               535 OneDrive - 独立行政法人情報処理推進機構.lnk
+2017/11/20  16:04             1,824 OPCInt2_counters.h.lnk
+2017/11/20  16:04             1,832 OPCInt2_counters.ini.lnk
+2017/09/08  11:56               625 passport_info.txt.lnk
+2017/09/08  11:57               653 passport_info.zip.lnk
+2017/11/20  16:07               490 pi.lnk
+2017/11/20  16:08             1,817 pilastalarm.dat.lnk
+2017/11/20  16:05             1,806 pilicense.ud.lnk
+2017/11/20  16:03             1,835 pimsg_1120926.dat.lnk
+2017/09/08  09:44             1,763 P_ICS-CERTの概要と取組み.pdf.lnk
+2017/08/30  11:47             1,030 ryohi_20170813-18.xps.lnk
+2017/08/31  09:33             1,266 SCAN (print).lnk
+2017/09/14  18:59             1,260 share (ftp).lnk
+2017/11/27  17:01               697 SniffRecPktFwd.py.lnk
+2017/09/14  14:14               555 suzuka_courseguide_dl2.pdf.lnk
+2017/09/14  14:36               483 suzuka_map.jpg.lnk
+2017/08/28  16:12               855 TextTreeJ_ver3.0.1.zip.lnk
+2017/12/10  10:07               572 tktk.jpg.lnk
+2017/08/28  16:17               483 tools.lnk
+2017/12/01  10:02             1,264 UML.lnk
+2017/09/06  17:31               146 Windows ファイアウォール.lnk
+2017/11/20  16:01             1,647 yEd.lnk
+2017/08/31  09:33             1,515 ご注意！ この共有フォルダに保存されたデータは毎日午前７時に消去されます。.lnk
+2017/08/30  13:19               104 インターネット.lnk
+2017/12/01  10:02             1,650 オブジェクト図、コラボレーション図.mdwt.lnk
+2017/09/14  12:09               958 サイバーセキュリティ使節団 20170324.pdf.lnk
+2017/09/06  17:31               116 システムとセキュリティ.lnk
+2017/12/09  23:23               792 ダウンロード.lnk
+2017/09/06  17:34               146 デバイスとプリンター.lnk
+2017/08/30  13:20               116 ネットワークとインターネット.lnk
+2017/08/31  12:28               146 ネットワークと共有センター (2).lnk
+2017/11/20  15:49               146 ネットワークと共有センター (3).lnk
+2017/11/20  16:09               146 ネットワークと共有センター (4).lnk
+2017/09/06  17:34               116 ハードウェアとサウンド.lnk
+2017/09/13  15:26             1,051 フランス申し込み.txt.lnk
+2017/08/30  10:35               146 プログラムと機能.lnk
+2017/12/01  09:56               555 ベーシック (2).lnk
+2017/12/01  09:55               555 ベーシック.lnk
+2017/12/01  09:58               670 ペネトレーション.lnk
+2017/08/30  13:20               146 ホームグループ.lnk
+2017/09/11  16:37             1,037 ポスターセッション.pub.lnk
+2017/09/14  18:59             1,384 ポスターセッション印刷用.lnk
+2017/09/08  09:44             1,610 マカフィー佐々木様_20170907.lnk
+2017/09/07  15:28             1,108 マニュアル.lnk
+2017/12/05  17:05               902 メモ.lnk
+2017/09/08  11:54             1,097 メール下書き.lnk
+2017/08/28  16:17               386 ローカル ディスク (C) (2).lnk
+2017/11/21  17:54               793 会長宅(埼玉県深谷市上野台２８８０?１３).png.lnk
+2017/09/14  16:50               567 図1.png.lnk
+2017/12/11  15:07               790 報告.lnk
+2017/08/29  15:18               670 新しいフォルダー.lnk
+2017/09/13  11:39               636 海外演習.lnk
+2017/11/27  08:44               462 社内報原稿_20171127.lnk
+2017/11/27  08:44               715 社内報原稿_20171127.txt.lnk
+2017/09/13  11:39               881 自己紹介_本田.pptx.lnk
+2017/09/14  13:25               916 自己紹介_本田_rev2.1.pptx.lnk
+2017/09/14  09:40               906 自己紹介_本田_rev2.pptx.lnk
+2017/12/12  15:07             1,881 花ちゃん誕生日写真.lnk
+2017/12/09  23:24               813 許諾条件.txt.lnk
+2017/09/11  16:37               452 講義.lnk
+             122 個のファイル             105,298 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/08/29  13:24             6,144 12dc1ea8e34b5a6.automaticDestinations-ms
+2017/11/23  10:09             4,096 1bc392b8e104a00e.automaticDestinations-ms
+2017/11/29  11:46             2,560 4ddcbb9e6a9e61c0.automaticDestinations-ms
+2017/09/14  14:00             3,584 5d696d521de238c3.automaticDestinations-ms
+2017/08/23  17:21            59,392 5f7b5f1e01b83767.automaticDestinations-ms
+2017/12/01  09:59             1,536 75062125a4ac1864.automaticDestinations-ms
+2018/01/10  14:06             2,560 75668a91ce73b054.automaticDestinations-ms
+2017/09/14  16:58             1,536 78f1f55181f2d70b.automaticDestinations-ms
+2017/08/30  10:35             6,144 7e4dca80246863e3.automaticDestinations-ms
+2017/09/08  11:55            30,720 7e65c2c712ae0b81.automaticDestinations-ms
+2017/12/09  23:23             3,584 96d7455bc6241e9a.automaticDestinations-ms
+2017/09/08  11:54             8,192 9b9cdc69c1c24e2b.automaticDestinations-ms
+2017/09/11  16:37             5,120 9c08ad74ad8708df.automaticDestinations-ms
+2017/09/07  15:28            12,800 9d1f905ce5044aee.automaticDestinations-ms
+2017/10/30  13:43             4,608 a2c73c383525f1bb.automaticDestinations-ms
+2017/09/08  16:19            14,336 a52b0784bd667468.automaticDestinations-ms
+2017/09/11  16:45            14,336 b8ab77100df80ab2.automaticDestinations-ms
+2017/08/24  11:05             1,536 cb05cc8c5a282971.automaticDestinations-ms
+2017/08/29  14:29            28,160 d00655d2aa12ff6d.automaticDestinations-ms
+2017/08/31  09:33             1,536 d06c94537ecaee12.automaticDestinations-ms
+2017/11/27  17:00             3,584 d4f97ce96a6c90d4.automaticDestinations-ms
+2017/08/30  11:47             3,584 e36bfc8972e5ab1d.automaticDestinations-ms
+2017/08/23  17:21            78,336 f01b4d95cf55d32a.automaticDestinations-ms
+2017/08/30  13:19             3,072 f18460fded109990.automaticDestinations-ms
+              24 個のファイル             301,056 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/10/02  19:29             8,816 28c8b86deab549a1.customDestinations-ms
+2017/11/30  11:14             5,430 590aee7bdd69b59b.customDestinations-ms
+2017/08/28  09:44            19,640 5d696d521de238c3.customDestinations-ms
+2017/08/23  17:21                24 7e4dca80246863e3.customDestinations-ms
+2017/08/24  10:36             1,596 9d1f905ce5044aee.customDestinations-ms
+2017/08/23  17:21                24 f01b4d95cf55d32a.customDestinations-ms
+2017/08/24  11:42                24 f18460fded109990.customDestinations-ms
+               7 個のファイル              35,554 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\SendTo のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/24  09:20             1,049 Bluetooth ファイル転送.LNK
+2018/01/15  16:44                 3 Compressed (zipped) Folder.ZFSendToTarget
+2018/01/15  16:44                 7 Desktop (create shortcut).DeskLink
+2018/01/15  16:44             1,112 Fax Recipient.lnk
+2018/01/15  16:47             2,543 FAX 受信者.lnk
+2018/01/15  16:44                 4 Mail Recipient.MAPIMail
+2017/08/31  13:23             1,076 サクラエディタ.lnk
+2017/08/23  17:20                 0 ドキュメント.mydocs
+               8 個のファイル               5,794 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          Programs
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2018/01/15  16:44    <DIR>          Accessibility
+2018/01/15  16:44    <DIR>          Accessories
+2017/08/23  17:20    <DIR>          Administrative Tools
+2017/08/30  10:55             2,174 Bash on Ubuntu on Windows.lnk
+2018/01/15  16:44    <DIR>          Maintenance
+2017/10/30  14:39    <DIR>          Nmap
+2017/08/23  17:20    <DIR>          Startup
+2018/01/15  16:44    <DIR>          System Tools
+2018/01/15  16:44    <DIR>          Windows PowerShell
+               1 個のファイル               2,174 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2018/01/15  16:44             1,106 Magnify.lnk
+2018/01/15  16:44             1,108 Narrator.lnk
+2018/01/15  16:44             1,106 On-Screen Keyboard.lnk
+               3 個のファイル               3,320 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2018/01/15  16:51             1,323 Internet Explorer.lnk
+2018/01/15  16:44             1,158 Notepad.lnk
+               2 個のファイル               2,481 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Nmap のディレクトリ
+
+2017/10/30  14:39    <DIR>          .
+2017/10/30  14:39    <DIR>          ..
+2017/10/30  14:39             1,072 Nmap - Zenmap GUI.lnk
+               1 個のファイル               1,072 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/09/01  10:10             1,349 SnapCrab.lnk
+               1 個のファイル               1,349 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2018/01/15  16:44             1,142 Command Prompt.lnk
+2018/01/15  16:44               335 computer.lnk
+2018/01/15  16:44               405 Control Panel.lnk
+2018/01/15  16:44               407 File Explorer.lnk
+2018/01/15  16:44               409 Run.lnk
+               5 個のファイル               2,698 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2018/01/15  16:44             2,494 Windows PowerShell (x86).lnk
+2018/01/15  16:44             1,274 Windows PowerShell ISE (x86).lnk
+2018/01/15  16:44             1,274 Windows PowerShell ISE.lnk
+2018/01/15  16:44             2,494 Windows PowerShell.lnk
+               4 個のファイル               7,536 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Templates のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Themes のディレクトリ
+
+2018/01/15  16:52    <DIR>          .
+2018/01/15  16:52    <DIR>          ..
+2018/01/25  09:58    <DIR>          CachedFiles
+2018/01/15  16:52           423,448 TranscodedWallpaper
+               1 個のファイル             423,448 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Themes\CachedFiles のディレクトリ
+
+2018/01/25  09:58    <DIR>          .
+2018/01/25  09:58    <DIR>          ..
+2018/01/25  10:19            79,409 CachedImage_1440_900_POS4.jpg
+2018/01/25  10:20           216,845 CachedImage_2560_1600_POS4.jpg
+2018/01/25  10:19           306,436 CachedImage_2880_1800_POS4.jpg
+2018/01/25  09:58           506,792 CachedImage_3840_2160_POS4.jpg
+2018/01/25  15:10           850,313 CachedImage_5120_3200_POS4.jpg
+               5 個のファイル           1,959,795 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Word のディレクトリ
+
+2017/08/28  16:58    <DIR>          .
+2017/08/28  16:58    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\RealVNC のディレクトリ
+
+2017/10/30  13:42    <DIR>          .
+2017/10/30  13:42    <DIR>          ..
+2017/10/30  13:43    <DIR>          ViewerStore
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\RealVNC\ViewerStore のディレクトリ
+
+2017/10/30  13:43    <DIR>          .
+2017/10/30  13:43    <DIR>          ..
+2017/11/02  10:47             5,723 4cedc1ee-4b57-4cf0-7a97-fa37f19c0330.jrle
+2017/10/30  13:43             1,149 4cedc1ee-4b57-4cf0-7a97-fa37f19c0330.vnc
+               2 個のファイル               6,872 バイト
+
+ C:\Users\honda\AppData\Roaming\sakura のディレクトリ
+
+2017/08/31  13:23    <DIR>          .
+2017/08/31  13:23    <DIR>          ..
+2017/09/08  11:54           107,445 sakura.ini
+               1 個のファイル             107,445 バイト
+
+ C:\Users\honda\AppData\Roaming\Skype のディレクトリ
+
+2017/08/24  09:24    <DIR>          .
+2017/08/24  09:24    <DIR>          ..
+2017/08/24  09:24    <DIR>          RootTools
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Skype\RootTools のディレクトリ
+
+2017/08/24  09:24    <DIR>          .
+2017/08/24  09:24    <DIR>          ..
+2017/08/24  09:24                76 roottools.conf
+               1 個のファイル                  76 バイト
+
+ C:\Users\honda\AppData\Roaming\Wireshark のディレクトリ
+
+2017/11/29  15:21    <DIR>          .
+2017/11/29  15:21    <DIR>          ..
+2017/11/29  15:21    <DIR>          profiles
+2017/11/29  15:21             2,698 recent
+2017/11/29  15:21             2,084 recent_common
+               2 個のファイル               4,782 バイト
+
+ C:\Users\honda\AppData\Roaming\Wireshark\profiles のディレクトリ
+
+2017/11/29  15:21    <DIR>          .
+2017/11/29  15:21    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02    <DIR>          yEd
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks\yEd のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02                68 history.xml
+2017/11/20  16:02    <DIR>          palettes
+2017/11/20  16:02                67 propertiesmapper.xml
+2017/11/20  16:02             6,006 realizers.xml
+2017/11/20  16:02             5,627 settings.xml
+2017/11/20  16:02             2,806 yed-3_5.layout
+               5 個のファイル              14,574 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks\yEd\palettes のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02             1,039 palette_info.xml
+               1 個のファイル               1,039 バイト
+
+     ファイルの総数:
+             296 個のファイル          83,689,265 バイト
+             305 個のディレクトリ  17,060,622,336 バイトの空き領域
+■/ta 最終アクセス日時 
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は F0A2-C27B です
+
+ C:\Users\honda\AppData\Roaming のディレクトリ
+
+2018/01/15  16:45    <DIR>          .
+2018/01/15  16:45    <DIR>          ..
+2017/08/23  17:20    <DIR>          Adobe
+2017/09/01  10:10    <DIR>          Fenrir Inc
+2017/12/07  16:49    <DIR>          FileZilla
+2017/08/28  09:50    <DIR>          LhaForge
+2017/10/30  13:43    <DIR>          RealVNC
+2017/12/05  17:36    <DIR>          sakura
+2017/08/24  09:24    <DIR>          Skype
+2017/11/29  15:21    <DIR>          Wireshark
+2017/11/20  16:02    <DIR>          yWorks
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          Flash Player
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe\Flash Player のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          NativeCache
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe\Flash Player\NativeCache のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Fenrir Inc のディレクトリ
+
+2017/09/01  10:10    <DIR>          .
+2017/09/01  10:10    <DIR>          ..
+2017/09/01  10:10    <DIR>          SnapCrab for Windows
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Fenrir Inc\SnapCrab for Windows のディレクトリ
+
+2017/09/01  10:10    <DIR>          .
+2017/09/01  10:10    <DIR>          ..
+2017/09/01  10:10               958 SnapCrab.ini
+               1 個のファイル                 958 バイト
+
+ C:\Users\honda\AppData\Roaming\FileZilla のディレクトリ
+
+2017/12/07  16:49    <DIR>          .
+2017/12/07  16:49    <DIR>          ..
+2017/12/07  16:47            11,609 filezilla.xml
+2017/12/07  16:47               769 layout.xml
+2017/12/07  16:47            28,672 queue.sqlite3
+2017/12/07  16:48               582 recentservers.xml
+               4 個のファイル              41,632 バイト
+
+ C:\Users\honda\AppData\Roaming\LhaForge のディレクトリ
+
+2017/08/28  09:50    <DIR>          .
+2017/08/28  09:50    <DIR>          ..
+2017/08/28  09:50             5,936 LhaForge.ini
+               1 個のファイル               5,936 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft のディレクトリ
+
+2017/08/28  16:48    <DIR>          AddIns
+2018/01/15  16:48    <DIR>          Crypto
+2017/12/11  15:12    <DIR>          Excel
+2017/12/01  09:55    <DIR>          HTML Help
+2017/08/23  17:20    <DIR>          IME
+2017/08/28  17:00    <DIR>          InputMethod
+2018/01/15  16:48    <DIR>          Internet Explorer
+2017/08/30  10:38    <DIR>          MMC
+2018/01/15  16:48    <DIR>          Network
+2017/12/12  12:01    <DIR>          Office
+2017/12/13  17:38    <DIR>          PowerPoint
+2017/09/20  09:40    <DIR>          Publisher
+2017/09/20  09:40    <DIR>          Publisher Building Blocks
+2017/08/24  10:36    <DIR>          Spelling
+2018/01/15  16:48    <DIR>          SystemCertificates
+2017/10/02  18:18    <DIR>          Templates
+2017/08/29  14:37    <DIR>          UProof
+2017/08/24  09:22    <DIR>          Vault
+2018/01/15  16:52    <DIR>          Windows
+2017/08/31  13:22    <DIR>          Word
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\AddIns のディレクトリ
+
+2017/08/28  16:48    <DIR>          .
+2017/08/28  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Crypto のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Excel のディレクトリ
+
+2017/12/11  15:12    <DIR>          .
+2017/12/11  15:12    <DIR>          ..
+2017/09/14  16:50            10,428 Excel15.xlb
+               1 個のファイル              10,428 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\HTML Help のディレクトリ
+
+2017/12/01  09:55    <DIR>          .
+2017/12/01  09:55    <DIR>          ..
+2017/12/01  09:55             8,590 hh.dat
+               1 個のファイル               8,590 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          15.0
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0 のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          IMEJP
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0\IMEJP のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2018/01/15  16:29    <DIR>          UserDict
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0\IMEJP\UserDict のディレクトリ
+
+2018/01/15  16:29    <DIR>          .
+2018/01/15  16:29    <DIR>          ..
+2018/01/15  16:29           299,008 imjp15cu.dic
+2017/08/28  16:59                 2 imjp15cu.dic_bak
+               2 個のファイル             299,010 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\InputMethod のディレクトリ
+
+2017/08/28  17:00    <DIR>          .
+2017/08/28  17:00    <DIR>          ..
+2017/08/28  17:00    <DIR>          Shared
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\InputMethod\Shared のディレクトリ
+
+2017/08/28  17:00    <DIR>          .
+2017/08/28  17:00    <DIR>          ..
+2017/08/28  17:00           146,634 JpnIHDS.dat
+               1 個のファイル             146,634 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:46    <DIR>          Quick Launch
+2017/08/23  17:20    <DIR>          UserData
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch のディレクトリ
+
+2018/01/15  16:46    <DIR>          .
+2018/01/15  16:46    <DIR>          ..
+2017/08/24  16:04             2,346 Google Chrome.lnk
+2018/01/15  16:44               352 Shows Desktop.lnk
+2018/01/15  16:44               334 Window Switcher.lnk
+2017/11/16  11:11             1,839 Wireshark.lnk
+2017/08/31  13:23             1,076 サクラエディタ.lnk
+               5 個のファイル               5,947 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned のディレクトリ
+
+2017/08/23  17:20    <DIR>          ImplicitAppShortcuts
+2018/01/15  16:46    <DIR>          TaskBar
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar のディレクトリ
+
+2018/01/15  16:46    <DIR>          .
+2018/01/15  16:46    <DIR>          ..
+2017/08/23  17:21               407 File Explorer.lnk
+2017/08/28  16:20             2,258 Google Chrome.lnk
+2017/08/28  16:19               861 TextTree.lnk
+2017/09/12  11:06             1,070 サクラエディタ.lnk
+               4 個のファイル               4,596 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\UserData のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          Low
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\UserData\Low のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\MMC のディレクトリ
+
+2017/08/30  10:38    <DIR>          .
+2017/08/30  10:38    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:48    <DIR>          Connections
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:48    <DIR>          Cm
+2017/08/23  17:21    <DIR>          Pbk
+2018/01/15  16:48    <DIR>          _hiddencm
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Cm のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Pbk のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/08/23  17:21    <DIR>          _hiddenPbk
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/08/23  17:21                 0 rasphone.pbk
+               1 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\_hiddencm のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office のディレクトリ
+
+2017/12/12  12:01    <DIR>          .
+2017/12/12  12:01    <DIR>          ..
+2017/08/29  14:36    <DIR>          16.0
+2017/12/12  12:01           175,748 fbc823B.tmp
+2017/08/29  14:44            13,202 MSO0127.acl
+2017/08/28  16:58            37,786 MSO1033.acl
+2017/12/13  17:33    <DIR>          Recent
+               3 個のファイル             226,736 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0 のディレクトリ
+
+2017/08/29  14:36    <DIR>          .
+2017/08/29  14:36    <DIR>          ..
+2017/08/29  14:36    <DIR>          6e23e3d0
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0\6e23e3d0 のディレクトリ
+
+2017/08/29  14:36    <DIR>          .
+2017/08/29  14:36    <DIR>          ..
+2017/12/11  10:31    <DIR>          Proofing
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0\6e23e3d0\Proofing のディレクトリ
+
+2017/12/11  10:31    <DIR>          .
+2017/12/11  10:31    <DIR>          ..
+2017/12/11  10:31               492 RoamingCustom.dic
+               1 個のファイル                 492 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\Recent のディレクトリ
+
+2017/12/13  17:33    <DIR>          .
+2017/12/13  17:33    <DIR>          ..
+2017/12/12  11:46               604 171201_監視カメラ攻撃報告.pptx.LNK
+2017/12/13  15:39             1,407 201712_報告.pptx.LNK
+2017/12/13  15:41             1,349 201712_防衛技術・ペネトレーション.pptx.LNK
+2017/12/13  17:33             1,366 201712_防衛技術・ペネトレーション_正式.pptx.LNK
+2017/09/14  19:00             1,311 c170062_ポスターセッション.pub.LNK
+2017/09/13  13:08               126 icscoe-my.sharepoint.com の 0724.url
+2017/09/14  18:46               137 icscoe-my.sharepoint.com の 0724_橋本先生_六人組.url
+2017/09/14  13:26               112 icscoe-my.sharepoint.com の 海外演習.url
+2017/08/29  14:43               121 icscoe-my.sharepoint.com の 越島先生.url
+2017/08/28  16:58             1,164 Templates.LNK
+2017/09/14  18:58             1,277 ポスターセッション.pub.LNK
+              11 個のファイル               8,974 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint のディレクトリ
+
+2017/12/13  17:38    <DIR>          .
+2017/12/13  17:38    <DIR>          ..
+2017/12/13  17:25    <DIR>          201712_防衛技術・ペネトレーション306349743000118561
+2017/09/13  17:15                18 PPT16.pcb
+2017/12/13  17:38    <DIR>          SlideViewState
+               1 個のファイル                  18 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint\201712_防衛技術・ペネトレーション306349743000118561 のディレクトリ
+
+2017/12/13  17:25    <DIR>          .
+2017/12/13  17:25    <DIR>          ..
+2017/12/13  16:01         7,577,394 201712_防衛技術・ペネトレーション((Autosaved-306350512660251775)).ppt
+2017/12/13  16:22         7,580,257 201712_防衛技術・ペネトレーション((Autosaved-306350542273349798)).ppt
+2017/12/13  16:32         7,583,190 201712_防衛技術・ペネトレーション((Autosaved-306350554186302836)).ppt
+2017/12/13  16:48         7,584,152 201712_防衛技術・ペネトレーション((Autosaved-306350580987165868)).ppt
+2017/12/13  17:25         7,584,804 201712_防衛技術・ペネトレーション((Autosaved-306350631883456567)).ppt
+2017/12/13  15:50             1,212 201712_防衛技術・ペネトレーション.pptx.lnk
+               6 個のファイル          37,911,009 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint\SlideViewState のディレクトリ
+
+2017/12/13  17:38    <DIR>          .
+2017/12/13  17:38    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Publisher のディレクトリ
+
+2017/09/20  09:40    <DIR>          .
+2017/09/20  09:40    <DIR>          ..
+2017/09/14  17:37               396 PubAPSet.xml
+2017/09/12  14:41             1,075 pubcmd16.dat
+               2 個のファイル               1,471 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Publisher Building Blocks のディレクトリ
+
+2017/09/20  09:40    <DIR>          .
+2017/09/20  09:40    <DIR>          ..
+2017/09/11  16:21               168 ContentStore.xml
+               1 個のファイル                 168 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2017/08/24  10:36    <DIR>          en-LR
+2017/08/24  10:36    <DIR>          ja-Latn-JP-x-ext
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling\en-LR のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2017/08/24  10:36                 2 default.acl
+2017/08/24  10:36                 2 default.dic
+2017/08/24  10:36                 2 default.exc
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling\ja-Latn-JP-x-ext のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2017/08/24  10:36                 2 default.acl
+2017/08/24  10:36                 2 default.dic
+2017/08/24  10:36                 2 default.exc
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\SystemCertificates のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:48    <DIR>          My
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\SystemCertificates\My のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+2017/08/29  14:37    <DIR>          Document Themes
+2017/08/28  16:57           194,855 Excel へようこそ.xltx
+2017/08/29  14:30    <DIR>          LiveContent
+2017/08/28  16:58            19,096 Normal.dotm
+2017/10/02  18:18    <DIR>          SmartArt Graphics
+2017/08/28  16:57           443,125 キャッシュ フローの分析.xltm
+               3 個のファイル             657,076 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+2017/08/29  14:37    <DIR>          Theme Colors
+2017/08/29  14:37    <DIR>          Theme Effects
+2017/08/29  14:37    <DIR>          Theme Fonts
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Colors のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Effects のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Fonts のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          16
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          Managed
+2017/10/02  18:18    <DIR>          User
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          Document Themes
+2017/08/29  14:30    <DIR>          SmartArt Graphics
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Document Themes のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/10/02  13:08    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Document Themes\1041 のディレクトリ
+
+2017/10/02  13:08    <DIR>          .
+2017/10/02  13:08    <DIR>          ..
+2017/08/29  14:30           536,427 TM02772747[[fn=クール]].thmx
+2017/08/29  14:30            44,467 TM02836342[[fn=イオン]].thmx
+2017/08/29  14:30            49,620 TM02892315[[fn=ウィスプ]].thmx
+2017/08/29  14:30            49,620 TM02900688[[fn=ファセット]].thmx
+2017/08/29  14:30            49,620 TM02900720[[fn=インテグラル]].thmx
+2017/08/29  14:30            49,620 TM02900722[[fn=イオン ボードルーム]].thmx
+2017/08/29  14:30            49,620 TM02900743[[fn=オーガニック]].thmx
+2017/08/29  14:30         1,623,260 TM02900769[[fn=レトロスペクト]].thmx
+2017/08/29  14:30            49,620 TM02900771[[fn=スライス]].thmx
+2017/08/29  14:30           562,113 TM03090430[[fn=縞模様]].thmx
+2017/08/29  14:30         1,649,585 TM03090434[[fn=木版活字]].thmx
+2017/08/29  14:30           558,035 TM03457444[[fn=基礎]].thmx
+2017/08/29  14:30         3,296,405 TM03457452[[fn=天空]].thmx
+2017/08/29  14:30           570,901 TM03457464[[fn=配当]].thmx
+2017/08/29  14:30           523,048 TM03457475[[fn=フレーム]].thmx
+2017/08/29  14:30         3,078,052 TM03457485[[fn=メッシュ]].thmx
+2017/08/29  14:30           887,908 TM03457491[[fn=メトロポリタン]].thmx
+2017/08/29  14:30           924,687 TM03457496[[fn=視差]].thmx
+2017/08/29  14:30           966,946 TM03457503[[fn=クォータブル]].thmx
+2017/08/29  14:30         1,204,049 TM03457510[[fn=シャボン]].thmx
+2017/08/29  14:30           729,469 TM03457515[[fn=ビュー]].thmx
+2017/08/29  14:30         1,011,082 TM04033917[[fn=ベルリン]].thmx
+2017/08/29  14:30         1,463,634 TM04033919[[fn=回路]].thmx
+2017/08/29  14:30         2,218,943 TM04033921[[fn=ダマスク]].thmx
+2017/08/29  14:30         2,368,674 TM04033923[[fn=深海]].thmx
+2017/08/29  14:30         1,750,795 TM04033925[[fn=しずく]].thmx
+2017/08/29  14:30         2,924,237 TM04033927[[fn=メイン イベント]].thmx
+2017/08/29  14:30         2,357,051 TM04033929[[fn=石版]].thmx
+2017/08/29  14:30         3,611,324 TM04033937[[fn=飛行機雲]].thmx
+2017/10/02  13:08           536,604 TM10001105[[fn=トリミング]].thmx
+2017/10/02  13:08           663,937 TM10001106[[fn=バッジ]].thmx
+2017/08/29  14:30         1,091,485 TM10001114[[fn=ギャラリー]].thmx
+2017/08/29  14:30           608,122 TM10001115[[fn=パーセル]].thmx
+2017/08/29  14:30           857,650 TM16401371[[fn=アトラス]].thmx
+2017/08/29  14:30         2,443,359 TM16401375[[fn=マディソン]].thmx
+              35 個のファイル          41,359,969 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\SmartArt Graphics のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\SmartArt Graphics\1041 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+2017/08/29  14:30    <DIR>          Document Themes
+2017/10/02  18:18    <DIR>          SmartArt Graphics
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\Document Themes のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\Document Themes\1041 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\SmartArt Graphics のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+2017/10/02  18:18    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\SmartArt Graphics\1041 のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\SmartArt Graphics のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\UProof のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+2017/08/29  14:37                 2 CUSTOM.DIC
+2017/08/29  14:37                 2 ExcludeDictionaryEN0409.lex
+2017/08/29  14:37                 2 ExcludeDictionaryJP0411.lex
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Vault のディレクトリ
+
+2017/08/24  09:22    <DIR>          .
+2017/08/24  09:22    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows のディレクトリ
+
+2018/01/15  16:52    <DIR>          .
+2018/01/15  16:52    <DIR>          ..
+2018/01/15  16:51    <DIR>          AccountPictures
+2018/01/15  16:44    <DIR>          CloudStore
+2018/01/15  16:51    <DIR>          Libraries
+2018/01/15  16:44    <DIR>          Network Shortcuts
+2018/01/15  16:48    <DIR>          PowerShell
+2018/01/15  16:44    <DIR>          Printer Shortcuts
+2018/01/30  16:18    <DIR>          Recent
+2018/01/15  16:53    <DIR>          SendTo
+2017/08/23  17:20    <DIR>          Start Menu
+2018/01/15  16:44    <DIR>          Templates
+2018/01/25  09:58    <DIR>          Themes
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\AccountPictures のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\CloudStore のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Libraries のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+2018/01/15  16:51             2,358 CameraRoll.library-ms
+2018/01/15  16:51             2,128 Documents.library-ms
+2018/01/15  16:51             2,107 Music.library-ms
+2018/01/15  16:51             2,124 Pictures.library-ms
+2018/01/15  16:51             2,370 SavedPictures.library-ms
+2018/01/15  16:51             2,114 Videos.library-ms
+               6 個のファイル              13,201 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Network Shortcuts のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\PowerShell のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2017/11/30  11:16    <DIR>          PSReadline
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline のディレクトリ
+
+2017/11/30  11:16    <DIR>          .
+2017/11/30  11:16    <DIR>          ..
+2017/11/30  11:16                39 ConsoleHost_history.txt
+               1 個のファイル                  39 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Printer Shortcuts のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent のディレクトリ
+
+2018/01/30  16:18    <DIR>          .
+2018/01/30  16:18    <DIR>          ..
+2017/10/02  13:07               616 01.System X.pptx.lnk
+2017/10/02  13:07               636 01.SystemX_rev2.pptx.lnk
+2017/09/13  13:08               830 0724.lnk
+2017/09/14  18:46               869 0724_橋本先生_六人組.lnk
+2017/09/08  16:19             1,439 1.png.lnk
+2017/12/12  15:07             2,132 1294.jpg.lnk
+2017/11/10  15:12               605 147.bmp.lnk
+2017/11/10  15:15               605 148.bmp.lnk
+2017/11/10  15:16               605 149.bmp.lnk
+2017/11/10  15:17               605 150.bmp.lnk
+2017/12/12  11:45               650 171201_監視カメラ攻撃報告.pptx.lnk
+2017/09/08  11:56             1,374 2017-09-08.txt.lnk
+2017/12/05  17:05             1,186 2017-12-05_#1.txt.lnk
+2017/12/11  15:18               669 20171116_発表資料（本番）_v4.pptx.lnk
+2017/12/12  10:40               677 20171207_発電所_発表資料＿完成版.pptx.lnk
+2017/12/12  10:39               631 20171207＿検討内容.pptx.lnk
+2017/12/12  09:55               943 201712_ペネトレーション・防御技術.pptx.lnk
+2017/12/13  15:39             1,217 201712_報告.pptx.lnk
+2017/12/13  15:39               942 201712_朝会.lnk
+2017/12/13  15:41             1,129 201712_防衛技術・ペネトレーション.pptx.lnk
+2017/12/13  17:33             1,128 201712_防衛技術・ペネトレーション_正式.pptx.lnk
+2017/12/01  10:00               754 2回目.lnk
+2018/01/15  17:18               617 91999.png.lnk
+2018/01/15  17:19               629 91999_2.png.lnk
+2017/12/01  15:37               600 aaa.js.lnk
+2017/09/14  19:00               485 adsf.pdf.lnk
+2017/11/16  11:36               667 arpcache.py.lnk
+2017/12/01  13:49               667 ArpSpoof.py.lnk
+2018/01/10  14:06    <DIR>          AutomaticDestinations
+2017/12/01  09:55               633 BCP.lnk
+2017/09/14  18:59             1,478 C170062.lnk
+2017/09/14  18:59               903 c170062_ポスターセッション.pub.lnk
+2017/09/13  13:08             1,172 C170062_レーダチャート_本田_Rev2.xlsx.lnk
+2017/09/14  18:46             1,227 C170062_レーダチャート_本田_Rev3.xlsx.lnk
+2017/12/01  10:00               966 camera.mdpj.lnk
+2017/12/01  09:59               966 camera.mdwt.lnk
+2017/11/27  17:00               604 camera_auto.py.lnk
+2017/08/29  14:43               940 Chapter3.pptx.lnk
+2018/01/30  16:18             1,144 checktool_out.lnk
+2017/08/29  13:24               652 cssc_本田英之.jpg.lnk
+2017/08/29  13:24               652 cssc_本田英之.png.lnk
+2018/01/16  09:35    <DIR>          CustomDestinations
+2017/11/20  16:08             1,613 dat.lnk
+2018/01/30  16:17             1,555 dir_ALLUSERSPROFILE_dlls.txt.lnk
+2018/01/30  16:18             1,530 dir_Systemroot_dlls.txt.lnk
+2017/08/29  15:05               672 ds.lnk
+2017/08/29  15:24               669 fonts.lnk
+2017/08/29  15:09               677 ftp.lnk
+2017/11/17  10:45               194 http--www.msftconnecttest.com-redirect.lnk
+2017/09/07  15:28             1,464 IM05P05A01-02JA_090.pdf.lnk
+2017/11/29  11:07               596 IMG_0931.JPG.lnk
+2017/08/30  10:11             1,009 IPAfont00303.lnk
+2017/12/09  23:24               616 JpegAna142.lnk
+2017/12/09  23:23               993 JpegAna142.lzh.lnk
+2017/11/21  17:57               459 kaicho.jpg.lnk
+2017/12/05  13:21               629 kaicho2.jpg.lnk
+2017/09/08  16:19             1,201 kips_Team12_20170901.lnk
+2017/12/08  10:04               617 kyori.png.lnk
+2017/11/20  16:01             1,862 license.html.lnk
+2017/11/20  16:03             1,621 log.lnk
+2017/11/10  16:43               565 map.gif.lnk
+2017/11/02  11:13               172 ms-settingsnetwork-ethernet.lnk
+2018/01/25  16:59               154 ms-settingsnetwork.lnk
+2017/08/24  12:28               668 myRecording00.lnk
+2017/09/15  09:31               535 OneDrive - 独立行政法人情報処理推進機構.lnk
+2017/11/20  16:04             1,824 OPCInt2_counters.h.lnk
+2017/11/20  16:04             1,832 OPCInt2_counters.ini.lnk
+2017/09/08  11:56               625 passport_info.txt.lnk
+2017/09/08  11:57               653 passport_info.zip.lnk
+2017/11/20  16:07               490 pi.lnk
+2017/11/20  16:08             1,817 pilastalarm.dat.lnk
+2017/11/20  16:05             1,806 pilicense.ud.lnk
+2017/11/20  16:03             1,835 pimsg_1120926.dat.lnk
+2017/09/08  09:44             1,763 P_ICS-CERTの概要と取組み.pdf.lnk
+2017/08/30  13:13             1,030 ryohi_20170813-18.xps.lnk
+2017/08/31  09:33             1,266 SCAN (print).lnk
+2017/09/14  18:59             1,260 share (ftp).lnk
+2017/12/01  14:01               697 SniffRecPktFwd.py.lnk
+2017/09/14  14:14               555 suzuka_courseguide_dl2.pdf.lnk
+2017/09/14  14:36               483 suzuka_map.jpg.lnk
+2017/08/28  16:12               855 TextTreeJ_ver3.0.1.zip.lnk
+2017/12/10  10:17               572 tktk.jpg.lnk
+2017/08/28  16:17               483 tools.lnk
+2017/12/01  10:02             1,264 UML.lnk
+2017/09/06  17:31               146 Windows ファイアウォール.lnk
+2017/11/20  16:01             1,647 yEd.lnk
+2017/08/31  09:33             1,515 ご注意！ この共有フォルダに保存されたデータは毎日午前７時に消去されます。.lnk
+2018/01/25  16:59               104 インターネット.lnk
+2017/12/01  10:02             1,650 オブジェクト図、コラボレーション図.mdwt.lnk
+2017/09/14  12:09               958 サイバーセキュリティ使節団 20170324.pdf.lnk
+2017/09/06  17:31               116 システムとセキュリティ.lnk
+2017/12/09  23:23               792 ダウンロード.lnk
+2017/09/06  17:34               146 デバイスとプリンター.lnk
+2017/11/22  06:43               116 ネットワークとインターネット.lnk
+2017/11/15  14:26               146 ネットワークと共有センター (2).lnk
+2017/11/20  15:56               146 ネットワークと共有センター (3).lnk
+2017/11/22  06:43               146 ネットワークと共有センター (4).lnk
+2017/09/06  17:34               116 ハードウェアとサウンド.lnk
+2017/09/14  12:57             1,051 フランス申し込み.txt.lnk
+2017/08/30  10:39               146 プログラムと機能.lnk
+2017/12/01  09:58               555 ベーシック (2).lnk
+2017/12/01  09:56               555 ベーシック.lnk
+2017/12/01  09:58               670 ペネトレーション.lnk
+2017/08/30  13:24               146 ホームグループ.lnk
+2017/09/14  18:58             1,037 ポスターセッション.pub.lnk
+2017/09/14  18:59             1,384 ポスターセッション印刷用.lnk
+2017/09/08  09:44             1,610 マカフィー佐々木様_20170907.lnk
+2017/09/07  15:28             1,108 マニュアル.lnk
+2017/12/05  17:05               902 メモ.lnk
+2017/09/08  11:56             1,097 メール下書き.lnk
+2017/08/28  16:17               386 ローカル ディスク (C) (2).lnk
+2017/11/21  17:54               793 会長宅(埼玉県深谷市上野台２８８０?１３).png.lnk
+2017/11/10  16:43               567 図1.png.lnk
+2017/12/13  17:33               790 報告.lnk
+2017/12/01  09:56               670 新しいフォルダー.lnk
+2017/09/14  13:25               636 海外演習.lnk
+2017/11/27  08:44               462 社内報原稿_20171127.lnk
+2017/11/27  08:44               715 社内報原稿_20171127.txt.lnk
+2017/09/13  11:39               881 自己紹介_本田.pptx.lnk
+2017/09/14  13:25               916 自己紹介_本田_rev2.1.pptx.lnk
+2017/09/14  11:35               906 自己紹介_本田_rev2.pptx.lnk
+2017/12/12  15:07             1,881 花ちゃん誕生日写真.lnk
+2017/12/09  23:24               813 許諾条件.txt.lnk
+2017/12/01  09:56               452 講義.lnk
+             122 個のファイル             105,298 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations のディレクトリ
+
+2018/01/10  14:06    <DIR>          .
+2018/01/10  14:06    <DIR>          ..
+2017/08/29  13:24             6,144 12dc1ea8e34b5a6.automaticDestinations-ms
+2017/11/23  10:09             4,096 1bc392b8e104a00e.automaticDestinations-ms
+2017/11/29  11:46             2,560 4ddcbb9e6a9e61c0.automaticDestinations-ms
+2017/09/14  14:00             3,584 5d696d521de238c3.automaticDestinations-ms
+2017/08/23  17:21            59,392 5f7b5f1e01b83767.automaticDestinations-ms
+2017/12/01  09:59             1,536 75062125a4ac1864.automaticDestinations-ms
+2018/01/10  14:06             2,560 75668a91ce73b054.automaticDestinations-ms
+2017/09/14  16:58             1,536 78f1f55181f2d70b.automaticDestinations-ms
+2017/08/30  10:35             6,144 7e4dca80246863e3.automaticDestinations-ms
+2017/09/08  11:55            30,720 7e65c2c712ae0b81.automaticDestinations-ms
+2017/12/09  23:23             3,584 96d7455bc6241e9a.automaticDestinations-ms
+2017/09/08  11:54             8,192 9b9cdc69c1c24e2b.automaticDestinations-ms
+2017/09/11  16:37             5,120 9c08ad74ad8708df.automaticDestinations-ms
+2017/09/07  15:28            12,800 9d1f905ce5044aee.automaticDestinations-ms
+2017/10/30  13:43             4,608 a2c73c383525f1bb.automaticDestinations-ms
+2017/09/08  16:19            14,336 a52b0784bd667468.automaticDestinations-ms
+2017/09/11  16:45            14,336 b8ab77100df80ab2.automaticDestinations-ms
+2017/08/24  11:05             1,536 cb05cc8c5a282971.automaticDestinations-ms
+2017/08/29  14:29            28,160 d00655d2aa12ff6d.automaticDestinations-ms
+2017/08/31  09:33             1,536 d06c94537ecaee12.automaticDestinations-ms
+2017/11/27  17:00             3,584 d4f97ce96a6c90d4.automaticDestinations-ms
+2017/08/30  11:47             3,584 e36bfc8972e5ab1d.automaticDestinations-ms
+2017/08/23  17:21            78,336 f01b4d95cf55d32a.automaticDestinations-ms
+2017/08/30  13:19             3,072 f18460fded109990.automaticDestinations-ms
+              24 個のファイル             301,056 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations のディレクトリ
+
+2018/01/16  09:35    <DIR>          .
+2018/01/16  09:35    <DIR>          ..
+2017/10/02  19:36             8,816 28c8b86deab549a1.customDestinations-ms
+2017/11/30  11:14             5,430 590aee7bdd69b59b.customDestinations-ms
+2018/01/10  14:05            19,640 5d696d521de238c3.customDestinations-ms
+2017/08/23  17:21                24 7e4dca80246863e3.customDestinations-ms
+2017/08/24  10:36             1,596 9d1f905ce5044aee.customDestinations-ms
+2017/08/23  17:21                24 f01b4d95cf55d32a.customDestinations-ms
+2018/01/16  09:35                24 f18460fded109990.customDestinations-ms
+               7 個のファイル              35,554 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\SendTo のディレクトリ
+
+2018/01/15  16:53    <DIR>          .
+2018/01/15  16:53    <DIR>          ..
+2018/01/15  16:53             1,049 Bluetooth ファイル転送.LNK
+2018/01/15  16:44                 3 Compressed (zipped) Folder.ZFSendToTarget
+2018/01/15  16:44                 7 Desktop (create shortcut).DeskLink
+2018/01/15  16:44             1,112 Fax Recipient.lnk
+2018/01/15  16:47             2,543 FAX 受信者.lnk
+2018/01/15  16:44                 4 Mail Recipient.MAPIMail
+2017/08/31  13:23             1,076 サクラエディタ.lnk
+2017/08/23  17:20                 0 ドキュメント.mydocs
+               8 個のファイル               5,794 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2018/01/15  16:51    <DIR>          Programs
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+2018/01/15  16:44    <DIR>          Accessibility
+2018/01/15  16:51    <DIR>          Accessories
+2018/01/15  16:45    <DIR>          Administrative Tools
+2017/08/30  10:55             2,174 Bash on Ubuntu on Windows.lnk
+2018/01/15  16:44    <DIR>          Maintenance
+2018/01/15  16:46    <DIR>          Nmap
+2018/01/15  16:46    <DIR>          Startup
+2018/01/15  16:44    <DIR>          System Tools
+2018/01/15  16:44    <DIR>          Windows PowerShell
+               1 個のファイル               2,174 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2018/01/15  16:44             1,106 Magnify.lnk
+2018/01/15  16:44             1,108 Narrator.lnk
+2018/01/15  16:44             1,106 On-Screen Keyboard.lnk
+               3 個のファイル               3,320 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+2018/01/15  16:51             1,323 Internet Explorer.lnk
+2018/01/15  16:44             1,158 Notepad.lnk
+               2 個のファイル               2,481 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools のディレクトリ
+
+2018/01/15  16:45    <DIR>          .
+2018/01/15  16:45    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Nmap のディレクトリ
+
+2018/01/15  16:46    <DIR>          .
+2018/01/15  16:46    <DIR>          ..
+2017/10/30  14:39             1,072 Nmap - Zenmap GUI.lnk
+               1 個のファイル               1,072 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup のディレクトリ
+
+2018/01/15  16:46    <DIR>          .
+2018/01/15  16:46    <DIR>          ..
+2017/09/01  10:10             1,349 SnapCrab.lnk
+               1 個のファイル               1,349 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2018/01/15  16:44             1,142 Command Prompt.lnk
+2018/01/15  16:44               335 computer.lnk
+2018/01/15  16:44               405 Control Panel.lnk
+2018/01/15  16:44               407 File Explorer.lnk
+2018/01/15  16:44               409 Run.lnk
+               5 個のファイル               2,698 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+2018/01/15  16:44             2,494 Windows PowerShell (x86).lnk
+2018/01/15  16:44             1,274 Windows PowerShell ISE (x86).lnk
+2018/01/15  16:44             1,274 Windows PowerShell ISE.lnk
+2018/01/15  16:44             2,494 Windows PowerShell.lnk
+               4 個のファイル               7,536 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Templates のディレクトリ
+
+2018/01/15  16:44    <DIR>          .
+2018/01/15  16:44    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Themes のディレクトリ
+
+2018/01/25  09:58    <DIR>          .
+2018/01/25  09:58    <DIR>          ..
+2018/01/25  15:10    <DIR>          CachedFiles
+2018/01/15  16:52           423,448 TranscodedWallpaper
+               1 個のファイル             423,448 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Themes\CachedFiles のディレクトリ
+
+2018/01/25  15:10    <DIR>          .
+2018/01/25  15:10    <DIR>          ..
+2018/01/25  10:19            79,409 CachedImage_1440_900_POS4.jpg
+2018/01/25  10:20           216,845 CachedImage_2560_1600_POS4.jpg
+2018/01/25  10:19           306,436 CachedImage_2880_1800_POS4.jpg
+2018/01/25  09:58           506,792 CachedImage_3840_2160_POS4.jpg
+2018/01/25  15:10           850,313 CachedImage_5120_3200_POS4.jpg
+               5 個のファイル           1,959,795 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Word のディレクトリ
+
+2017/08/31  13:22    <DIR>          .
+2017/08/31  13:22    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\RealVNC のディレクトリ
+
+2017/10/30  13:43    <DIR>          .
+2017/10/30  13:43    <DIR>          ..
+2017/11/02  10:47    <DIR>          ViewerStore
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\RealVNC\ViewerStore のディレクトリ
+
+2017/11/02  10:47    <DIR>          .
+2017/11/02  10:47    <DIR>          ..
+2017/11/02  10:47             5,723 4cedc1ee-4b57-4cf0-7a97-fa37f19c0330.jrle
+2017/11/02  10:47             1,149 4cedc1ee-4b57-4cf0-7a97-fa37f19c0330.vnc
+               2 個のファイル               6,872 バイト
+
+ C:\Users\honda\AppData\Roaming\sakura のディレクトリ
+
+2017/12/05  17:36    <DIR>          .
+2017/12/05  17:36    <DIR>          ..
+2017/12/05  17:36           107,445 sakura.ini
+               1 個のファイル             107,445 バイト
+
+ C:\Users\honda\AppData\Roaming\Skype のディレクトリ
+
+2017/08/24  09:24    <DIR>          .
+2017/08/24  09:24    <DIR>          ..
+2017/08/24  09:24    <DIR>          RootTools
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Skype\RootTools のディレクトリ
+
+2017/08/24  09:24    <DIR>          .
+2017/08/24  09:24    <DIR>          ..
+2017/08/24  09:24                76 roottools.conf
+               1 個のファイル                  76 バイト
+
+ C:\Users\honda\AppData\Roaming\Wireshark のディレクトリ
+
+2017/11/29  15:21    <DIR>          .
+2017/11/29  15:21    <DIR>          ..
+2017/11/29  15:21    <DIR>          profiles
+2017/11/29  15:21             2,698 recent
+2017/11/29  15:21             2,084 recent_common
+               2 個のファイル               4,782 バイト
+
+ C:\Users\honda\AppData\Roaming\Wireshark\profiles のディレクトリ
+
+2017/11/29  15:21    <DIR>          .
+2017/11/29  15:21    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02    <DIR>          yEd
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks\yEd のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02                68 history.xml
+2017/11/20  16:02    <DIR>          palettes
+2017/11/20  16:02                67 propertiesmapper.xml
+2017/11/20  16:02             6,006 realizers.xml
+2017/11/20  16:02             5,627 settings.xml
+2017/11/20  16:02             2,806 yed-3_5.layout
+               5 個のファイル              14,574 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks\yEd\palettes のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02             1,039 palette_info.xml
+               1 個のファイル               1,039 バイト
+
+     ファイルの総数:
+             296 個のファイル          83,689,265 バイト
+             305 個のディレクトリ  17,060,618,240 バイトの空き領域
+■/tw 最終更新日時  
+ ドライブ C のボリューム ラベルがありません。
+ ボリューム シリアル番号は F0A2-C27B です
+
+ C:\Users\honda\AppData\Roaming のディレクトリ
+
+2018/01/15  16:45    <DIR>          .
+2018/01/15  16:45    <DIR>          ..
+2017/08/23  17:20    <DIR>          Adobe
+2017/09/01  10:10    <DIR>          Fenrir Inc
+2017/12/07  16:49    <DIR>          FileZilla
+2017/08/28  09:50    <DIR>          LhaForge
+2017/10/30  13:43    <DIR>          RealVNC
+2017/12/05  17:36    <DIR>          sakura
+2017/08/24  09:24    <DIR>          Skype
+2017/11/29  15:21    <DIR>          Wireshark
+2017/11/20  16:02    <DIR>          yWorks
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          Flash Player
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe\Flash Player のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          NativeCache
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Adobe\Flash Player\NativeCache のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Fenrir Inc のディレクトリ
+
+2017/09/01  10:10    <DIR>          .
+2017/09/01  10:10    <DIR>          ..
+2017/09/01  10:10    <DIR>          SnapCrab for Windows
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Fenrir Inc\SnapCrab for Windows のディレクトリ
+
+2017/09/01  10:10    <DIR>          .
+2017/09/01  10:10    <DIR>          ..
+2018/01/15  16:53               958 SnapCrab.ini
+               1 個のファイル                 958 バイト
+
+ C:\Users\honda\AppData\Roaming\FileZilla のディレクトリ
+
+2017/12/07  16:49    <DIR>          .
+2017/12/07  16:49    <DIR>          ..
+2017/12/07  16:49            11,609 filezilla.xml
+2017/12/07  16:48               769 layout.xml
+2017/12/07  16:48            28,672 queue.sqlite3
+2017/12/07  16:48               582 recentservers.xml
+               4 個のファイル              41,632 バイト
+
+ C:\Users\honda\AppData\Roaming\LhaForge のディレクトリ
+
+2017/08/28  09:50    <DIR>          .
+2017/08/28  09:50    <DIR>          ..
+2017/08/28  16:15             5,936 LhaForge.ini
+               1 個のファイル               5,936 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft のディレクトリ
+
+2017/08/28  16:48    <DIR>          AddIns
+2018/01/15  16:48    <DIR>          Crypto
+2017/12/11  15:12    <DIR>          Excel
+2017/12/01  09:55    <DIR>          HTML Help
+2017/08/23  17:20    <DIR>          IME
+2017/08/28  17:00    <DIR>          InputMethod
+2018/01/15  16:48    <DIR>          Internet Explorer
+2017/08/30  10:38    <DIR>          MMC
+2018/01/15  16:48    <DIR>          Network
+2017/12/12  12:01    <DIR>          Office
+2017/12/13  17:38    <DIR>          PowerPoint
+2017/09/20  09:40    <DIR>          Publisher
+2017/09/20  09:40    <DIR>          Publisher Building Blocks
+2017/08/24  10:36    <DIR>          Spelling
+2018/01/15  16:48    <DIR>          SystemCertificates
+2017/10/02  18:18    <DIR>          Templates
+2017/08/29  14:37    <DIR>          UProof
+2017/08/24  09:22    <DIR>          Vault
+2018/01/15  16:52    <DIR>          Windows
+2017/08/31  13:22    <DIR>          Word
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\AddIns のディレクトリ
+
+2017/08/28  16:48    <DIR>          .
+2017/08/28  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Crypto のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Excel のディレクトリ
+
+2017/12/11  15:12    <DIR>          .
+2017/12/11  15:12    <DIR>          ..
+2017/09/14  16:50            10,428 Excel15.xlb
+               1 個のファイル              10,428 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\HTML Help のディレクトリ
+
+2017/12/01  09:55    <DIR>          .
+2017/12/01  09:55    <DIR>          ..
+2017/12/01  13:09             8,590 hh.dat
+               1 個のファイル               8,590 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          15.0
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0 のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          IMEJP
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0\IMEJP のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2018/01/15  16:29    <DIR>          UserDict
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\IME\15.0\IMEJP\UserDict のディレクトリ
+
+2018/01/15  16:29    <DIR>          .
+2018/01/15  16:29    <DIR>          ..
+2018/01/15  16:29           299,008 imjp15cu.dic
+2017/08/28  16:59                 2 imjp15cu.dic_bak
+               2 個のファイル             299,010 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\InputMethod のディレクトリ
+
+2017/08/28  17:00    <DIR>          .
+2017/08/28  17:00    <DIR>          ..
+2017/08/28  17:00    <DIR>          Shared
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\InputMethod\Shared のディレクトリ
+
+2017/08/28  17:00    <DIR>          .
+2017/08/28  17:00    <DIR>          ..
+2018/01/15  16:29           146,634 JpnIHDS.dat
+               1 個のファイル             146,634 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:46    <DIR>          Quick Launch
+2017/08/23  17:20    <DIR>          UserData
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch のディレクトリ
+
+2018/01/15  16:46    <DIR>          .
+2018/01/15  16:46    <DIR>          ..
+2018/01/15  16:51             2,346 Google Chrome.lnk
+2017/09/29  22:42               352 Shows Desktop.lnk
+2017/09/29  22:42               334 Window Switcher.lnk
+2017/11/16  11:11             1,839 Wireshark.lnk
+2017/08/31  13:23             1,076 サクラエディタ.lnk
+               5 個のファイル               5,947 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned のディレクトリ
+
+2017/08/23  17:20    <DIR>          ImplicitAppShortcuts
+2018/01/15  16:46    <DIR>          TaskBar
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar のディレクトリ
+
+2018/01/15  16:46    <DIR>          .
+2018/01/15  16:46    <DIR>          ..
+2017/03/19  05:58               407 File Explorer.lnk
+2017/08/28  09:33             2,258 Google Chrome.lnk
+2017/08/28  16:19               861 TextTree.lnk
+2017/08/31  13:23             1,070 サクラエディタ.lnk
+               4 個のファイル               4,596 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\UserData のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+2017/08/23  17:20    <DIR>          Low
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Internet Explorer\UserData\Low のディレクトリ
+
+2017/08/23  17:20    <DIR>          .
+2017/08/23  17:20    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\MMC のディレクトリ
+
+2017/08/30  10:38    <DIR>          .
+2017/08/30  10:38    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:48    <DIR>          Connections
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:48    <DIR>          Cm
+2017/08/23  17:21    <DIR>          Pbk
+2018/01/15  16:48    <DIR>          _hiddencm
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Cm のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Pbk のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/08/23  17:21    <DIR>          _hiddenPbk
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk のディレクトリ
+
+2017/08/23  17:21    <DIR>          .
+2017/08/23  17:21    <DIR>          ..
+2017/08/23  17:21                 0 rasphone.pbk
+               1 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Network\Connections\_hiddencm のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office のディレクトリ
+
+2017/12/12  12:01    <DIR>          .
+2017/12/12  12:01    <DIR>          ..
+2017/08/29  14:36    <DIR>          16.0
+2017/12/12  12:01           175,748 fbc823B.tmp
+2017/08/29  14:44            13,202 MSO0127.acl
+2017/08/29  14:45            37,786 MSO1033.acl
+2017/12/13  17:33    <DIR>          Recent
+               3 個のファイル             226,736 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0 のディレクトリ
+
+2017/08/29  14:36    <DIR>          .
+2017/08/29  14:36    <DIR>          ..
+2017/08/29  14:36    <DIR>          6e23e3d0
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0\6e23e3d0 のディレクトリ
+
+2017/08/29  14:36    <DIR>          .
+2017/08/29  14:36    <DIR>          ..
+2017/12/11  10:31    <DIR>          Proofing
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\16.0\6e23e3d0\Proofing のディレクトリ
+
+2017/12/11  10:31    <DIR>          .
+2017/12/11  10:31    <DIR>          ..
+2017/12/11  10:31               492 RoamingCustom.dic
+               1 個のファイル                 492 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Office\Recent のディレクトリ
+
+2017/12/13  17:33    <DIR>          .
+2017/12/13  17:33    <DIR>          ..
+2017/12/12  11:46               604 171201_監視カメラ攻撃報告.pptx.LNK
+2017/12/13  15:39             1,407 201712_報告.pptx.LNK
+2017/12/13  15:41             1,349 201712_防衛技術・ペネトレーション.pptx.LNK
+2017/12/13  17:33             1,366 201712_防衛技術・ペネトレーション_正式.pptx.LNK
+2017/09/14  19:00             1,311 c170062_ポスターセッション.pub.LNK
+2017/09/13  13:08               126 icscoe-my.sharepoint.com の 0724.url
+2017/09/14  18:46               137 icscoe-my.sharepoint.com の 0724_橋本先生_六人組.url
+2017/09/14  13:26               112 icscoe-my.sharepoint.com の 海外演習.url
+2017/08/29  14:43               121 icscoe-my.sharepoint.com の 越島先生.url
+2017/08/28  16:58             1,164 Templates.LNK
+2017/09/14  18:58             1,277 ポスターセッション.pub.LNK
+              11 個のファイル               8,974 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint のディレクトリ
+
+2017/12/13  17:38    <DIR>          .
+2017/12/13  17:38    <DIR>          ..
+2017/12/13  17:25    <DIR>          201712_防衛技術・ペネトレーション306349743000118561
+2017/12/12  12:01                18 PPT16.pcb
+2017/12/13  17:38    <DIR>          SlideViewState
+               1 個のファイル                  18 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint\201712_防衛技術・ペネトレーション306349743000118561 のディレクトリ
+
+2017/12/13  17:25    <DIR>          .
+2017/12/13  17:25    <DIR>          ..
+2017/12/13  16:01         7,577,394 201712_防衛技術・ペネトレーション((Autosaved-306350512660251775)).ppt
+2017/12/13  16:22         7,580,257 201712_防衛技術・ペネトレーション((Autosaved-306350542273349798)).ppt
+2017/12/13  16:32         7,583,190 201712_防衛技術・ペネトレーション((Autosaved-306350554186302836)).ppt
+2017/12/13  16:48         7,584,152 201712_防衛技術・ペネトレーション((Autosaved-306350580987165868)).ppt
+2017/12/13  17:25         7,584,804 201712_防衛技術・ペネトレーション((Autosaved-306350631883456567)).ppt
+2017/12/13  15:50             1,212 201712_防衛技術・ペネトレーション.pptx.lnk
+               6 個のファイル          37,911,009 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\PowerPoint\SlideViewState のディレクトリ
+
+2017/12/13  17:38    <DIR>          .
+2017/12/13  17:38    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Publisher のディレクトリ
+
+2017/09/20  09:40    <DIR>          .
+2017/09/20  09:40    <DIR>          ..
+2017/09/14  19:00               396 PubAPSet.xml
+2017/09/12  14:41             1,075 pubcmd16.dat
+               2 個のファイル               1,471 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Publisher Building Blocks のディレクトリ
+
+2017/09/20  09:40    <DIR>          .
+2017/09/20  09:40    <DIR>          ..
+2017/09/20  09:40               168 ContentStore.xml
+               1 個のファイル                 168 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2017/08/24  10:36    <DIR>          en-LR
+2017/08/24  10:36    <DIR>          ja-Latn-JP-x-ext
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling\en-LR のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2018/01/15  17:17                 2 default.acl
+2018/01/15  17:17                 2 default.dic
+2018/01/15  17:17                 2 default.exc
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Spelling\ja-Latn-JP-x-ext のディレクトリ
+
+2017/08/24  10:36    <DIR>          .
+2017/08/24  10:36    <DIR>          ..
+2018/01/15  17:17                 2 default.acl
+2018/01/15  17:17                 2 default.dic
+2018/01/15  17:17                 2 default.exc
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\SystemCertificates のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2018/01/15  16:51    <DIR>          My
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\SystemCertificates\My のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+2017/08/29  14:37    <DIR>          Document Themes
+2017/04/13  10:20           194,855 Excel へようこそ.xltx
+2017/08/29  14:30    <DIR>          LiveContent
+2017/08/28  16:58            19,096 Normal.dotm
+2017/10/02  18:18    <DIR>          SmartArt Graphics
+2016/06/08  13:03           443,125 キャッシュ フローの分析.xltm
+               3 個のファイル             657,076 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+2017/08/29  14:37    <DIR>          Theme Colors
+2017/08/29  14:37    <DIR>          Theme Effects
+2017/08/29  14:37    <DIR>          Theme Fonts
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Colors のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Effects のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\Document Themes\Theme Fonts のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          16
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          Managed
+2017/10/02  18:18    <DIR>          User
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          Document Themes
+2017/08/29  14:30    <DIR>          SmartArt Graphics
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Document Themes のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/10/02  13:08    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\Document Themes\1041 のディレクトリ
+
+2017/10/02  13:08    <DIR>          .
+2017/10/02  13:08    <DIR>          ..
+2017/08/29  14:30           536,427 TM02772747[[fn=クール]].thmx
+2017/08/29  14:30            44,467 TM02836342[[fn=イオン]].thmx
+2017/08/29  14:30            49,620 TM02892315[[fn=ウィスプ]].thmx
+2017/08/29  14:30            49,620 TM02900688[[fn=ファセット]].thmx
+2017/08/29  14:30            49,620 TM02900720[[fn=インテグラル]].thmx
+2017/08/29  14:30            49,620 TM02900722[[fn=イオン ボードルーム]].thmx
+2017/08/29  14:30            49,620 TM02900743[[fn=オーガニック]].thmx
+2016/03/16  14:33         1,623,260 TM02900769[[fn=レトロスペクト]].thmx
+2017/08/29  14:30            49,620 TM02900771[[fn=スライス]].thmx
+2017/08/29  14:30           562,113 TM03090430[[fn=縞模様]].thmx
+2017/08/29  14:30         1,649,585 TM03090434[[fn=木版活字]].thmx
+2017/08/29  14:30           558,035 TM03457444[[fn=基礎]].thmx
+2017/08/29  14:30         3,296,405 TM03457452[[fn=天空]].thmx
+2017/08/29  14:30           570,901 TM03457464[[fn=配当]].thmx
+2017/08/29  14:30           523,048 TM03457475[[fn=フレーム]].thmx
+2017/08/29  14:30         3,078,052 TM03457485[[fn=メッシュ]].thmx
+2017/08/29  14:30           887,908 TM03457491[[fn=メトロポリタン]].thmx
+2017/08/29  14:30           924,687 TM03457496[[fn=視差]].thmx
+2017/08/29  14:30           966,946 TM03457503[[fn=クォータブル]].thmx
+2017/08/29  14:30         1,204,049 TM03457510[[fn=シャボン]].thmx
+2017/08/29  14:30           729,469 TM03457515[[fn=ビュー]].thmx
+2017/08/29  14:30         1,011,082 TM04033917[[fn=ベルリン]].thmx
+2017/08/29  14:30         1,463,634 TM04033919[[fn=回路]].thmx
+2017/08/29  14:30         2,218,943 TM04033921[[fn=ダマスク]].thmx
+2017/08/29  14:30         2,368,674 TM04033923[[fn=深海]].thmx
+2017/08/29  14:30         1,750,795 TM04033925[[fn=しずく]].thmx
+2017/08/29  14:30         2,924,237 TM04033927[[fn=メイン イベント]].thmx
+2017/08/29  14:30         2,357,051 TM04033929[[fn=石版]].thmx
+2017/08/29  14:30         3,611,324 TM04033937[[fn=飛行機雲]].thmx
+2017/07/17  18:11           536,604 TM10001105[[fn=トリミング]].thmx
+2017/07/17  17:04           663,937 TM10001106[[fn=バッジ]].thmx
+2015/12/17  19:08         1,091,485 TM10001114[[fn=ギャラリー]].thmx
+2015/10/12  15:38           608,122 TM10001115[[fn=パーセル]].thmx
+2017/06/01  06:01           857,650 TM16401371[[fn=アトラス]].thmx
+2017/06/01  07:27         2,443,359 TM16401375[[fn=マディソン]].thmx
+              35 個のファイル          41,359,969 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\SmartArt Graphics のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\Managed\SmartArt Graphics\1041 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+2017/08/29  14:30    <DIR>          Document Themes
+2017/10/02  18:18    <DIR>          SmartArt Graphics
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\Document Themes のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+2017/08/29  14:30    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\Document Themes\1041 のディレクトリ
+
+2017/08/29  14:30    <DIR>          .
+2017/08/29  14:30    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\SmartArt Graphics のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+2017/10/02  18:18    <DIR>          1041
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\LiveContent\16\User\SmartArt Graphics\1041 のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Templates\SmartArt Graphics のディレクトリ
+
+2017/10/02  18:18    <DIR>          .
+2017/10/02  18:18    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\UProof のディレクトリ
+
+2017/08/29  14:37    <DIR>          .
+2017/08/29  14:37    <DIR>          ..
+2017/08/29  14:37                 2 CUSTOM.DIC
+2017/08/29  14:37                 2 ExcludeDictionaryEN0409.lex
+2017/08/29  14:37                 2 ExcludeDictionaryJP0411.lex
+               3 個のファイル                   6 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Vault のディレクトリ
+
+2017/08/24  09:22    <DIR>          .
+2017/08/24  09:22    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows のディレクトリ
+
+2018/01/15  16:52    <DIR>          .
+2018/01/15  16:52    <DIR>          ..
+2018/01/15  16:51    <DIR>          AccountPictures
+2017/09/29  22:46    <DIR>          CloudStore
+2018/01/15  16:51    <DIR>          Libraries
+2017/09/29  22:46    <DIR>          Network Shortcuts
+2018/01/15  16:48    <DIR>          PowerShell
+2017/09/29  22:46    <DIR>          Printer Shortcuts
+2018/01/30  16:18    <DIR>          Recent
+2018/01/15  16:53    <DIR>          SendTo
+2018/01/15  16:51    <DIR>          Start Menu
+2017/09/29  22:46    <DIR>          Templates
+2018/01/25  09:58    <DIR>          Themes
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\AccountPictures のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\CloudStore のディレクトリ
+
+2017/09/29  22:46    <DIR>          .
+2017/09/29  22:46    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Libraries のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+2018/01/15  16:51             2,358 CameraRoll.library-ms
+2018/01/15  16:51             2,128 Documents.library-ms
+2018/01/15  16:51             2,107 Music.library-ms
+2018/01/15  16:51             2,124 Pictures.library-ms
+2018/01/15  16:51             2,370 SavedPictures.library-ms
+2018/01/15  16:51             2,114 Videos.library-ms
+               6 個のファイル              13,201 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Network Shortcuts のディレクトリ
+
+2017/09/29  22:46    <DIR>          .
+2017/09/29  22:46    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\PowerShell のディレクトリ
+
+2018/01/15  16:48    <DIR>          .
+2018/01/15  16:48    <DIR>          ..
+2017/11/30  11:16    <DIR>          PSReadline
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadline のディレクトリ
+
+2017/11/30  11:16    <DIR>          .
+2017/11/30  11:16    <DIR>          ..
+2017/11/30  11:16                39 ConsoleHost_history.txt
+               1 個のファイル                  39 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Printer Shortcuts のディレクトリ
+
+2017/09/29  22:46    <DIR>          .
+2017/09/29  22:46    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent のディレクトリ
+
+2018/01/30  16:18    <DIR>          .
+2018/01/30  16:18    <DIR>          ..
+2017/10/02  13:07               616 01.System X.pptx.lnk
+2017/10/02  13:07               636 01.SystemX_rev2.pptx.lnk
+2017/09/13  13:08               830 0724.lnk
+2017/09/14  18:46               869 0724_橋本先生_六人組.lnk
+2017/09/08  16:19             1,439 1.png.lnk
+2017/12/12  15:07             2,132 1294.jpg.lnk
+2017/11/10  15:12               605 147.bmp.lnk
+2017/11/10  15:15               605 148.bmp.lnk
+2017/11/10  15:16               605 149.bmp.lnk
+2017/11/10  15:17               605 150.bmp.lnk
+2017/12/12  11:45               650 171201_監視カメラ攻撃報告.pptx.lnk
+2017/09/08  11:56             1,374 2017-09-08.txt.lnk
+2017/12/05  17:05             1,186 2017-12-05_#1.txt.lnk
+2017/12/11  15:18               669 20171116_発表資料（本番）_v4.pptx.lnk
+2017/12/12  10:40               677 20171207_発電所_発表資料＿完成版.pptx.lnk
+2017/12/12  10:39               631 20171207＿検討内容.pptx.lnk
+2017/12/12  09:55               943 201712_ペネトレーション・防御技術.pptx.lnk
+2017/12/13  15:39             1,217 201712_報告.pptx.lnk
+2017/12/13  15:39               942 201712_朝会.lnk
+2017/12/13  15:41             1,129 201712_防衛技術・ペネトレーション.pptx.lnk
+2017/12/13  17:33             1,128 201712_防衛技術・ペネトレーション_正式.pptx.lnk
+2017/12/01  10:00               754 2回目.lnk
+2018/01/15  17:18               617 91999.png.lnk
+2018/01/15  17:19               629 91999_2.png.lnk
+2017/12/01  15:37               600 aaa.js.lnk
+2017/09/14  19:00               485 adsf.pdf.lnk
+2017/11/16  11:36               667 arpcache.py.lnk
+2017/12/01  13:49               667 ArpSpoof.py.lnk
+2018/01/10  14:06    <DIR>          AutomaticDestinations
+2017/12/01  09:55               633 BCP.lnk
+2017/09/14  18:59             1,478 C170062.lnk
+2017/09/14  18:59               903 c170062_ポスターセッション.pub.lnk
+2017/09/13  13:08             1,172 C170062_レーダチャート_本田_Rev2.xlsx.lnk
+2017/09/14  18:46             1,227 C170062_レーダチャート_本田_Rev3.xlsx.lnk
+2017/12/01  10:00               966 camera.mdpj.lnk
+2017/12/01  09:59               966 camera.mdwt.lnk
+2017/11/27  17:00               604 camera_auto.py.lnk
+2017/08/29  14:43               940 Chapter3.pptx.lnk
+2018/01/30  16:18             1,144 checktool_out.lnk
+2017/08/29  13:24               652 cssc_本田英之.jpg.lnk
+2017/08/29  13:24               652 cssc_本田英之.png.lnk
+2018/01/16  09:35    <DIR>          CustomDestinations
+2017/11/20  16:08             1,613 dat.lnk
+2018/01/30  16:17             1,555 dir_ALLUSERSPROFILE_dlls.txt.lnk
+2018/01/30  16:18             1,530 dir_Systemroot_dlls.txt.lnk
+2017/08/29  15:05               672 ds.lnk
+2017/08/29  15:24               669 fonts.lnk
+2017/08/29  15:09               677 ftp.lnk
+2017/11/17  10:45               194 http--www.msftconnecttest.com-redirect.lnk
+2017/09/07  15:28             1,464 IM05P05A01-02JA_090.pdf.lnk
+2017/11/29  11:07               596 IMG_0931.JPG.lnk
+2017/08/30  10:11             1,009 IPAfont00303.lnk
+2017/12/09  23:24               616 JpegAna142.lnk
+2017/12/09  23:23               993 JpegAna142.lzh.lnk
+2017/11/21  17:57               459 kaicho.jpg.lnk
+2017/12/05  13:21               629 kaicho2.jpg.lnk
+2017/09/08  16:19             1,201 kips_Team12_20170901.lnk
+2017/12/08  10:04               617 kyori.png.lnk
+2017/11/20  16:01             1,862 license.html.lnk
+2017/11/20  16:03             1,621 log.lnk
+2017/11/10  16:43               565 map.gif.lnk
+2017/11/02  11:13               172 ms-settingsnetwork-ethernet.lnk
+2018/01/25  16:59               154 ms-settingsnetwork.lnk
+2017/08/24  12:28               668 myRecording00.lnk
+2017/09/15  09:31               535 OneDrive - 独立行政法人情報処理推進機構.lnk
+2017/11/20  16:04             1,824 OPCInt2_counters.h.lnk
+2017/11/20  16:04             1,832 OPCInt2_counters.ini.lnk
+2017/09/08  11:56               625 passport_info.txt.lnk
+2017/09/08  11:57               653 passport_info.zip.lnk
+2017/11/20  16:07               490 pi.lnk
+2017/11/20  16:08             1,817 pilastalarm.dat.lnk
+2017/11/20  16:05             1,806 pilicense.ud.lnk
+2017/11/20  16:03             1,835 pimsg_1120926.dat.lnk
+2017/09/08  09:44             1,763 P_ICS-CERTの概要と取組み.pdf.lnk
+2017/08/30  13:13             1,030 ryohi_20170813-18.xps.lnk
+2017/08/31  09:33             1,266 SCAN (print).lnk
+2017/09/14  18:59             1,260 share (ftp).lnk
+2017/12/01  14:01               697 SniffRecPktFwd.py.lnk
+2017/09/14  14:14               555 suzuka_courseguide_dl2.pdf.lnk
+2017/09/14  14:36               483 suzuka_map.jpg.lnk
+2017/08/28  16:12               855 TextTreeJ_ver3.0.1.zip.lnk
+2017/12/10  10:17               572 tktk.jpg.lnk
+2017/08/28  16:17               483 tools.lnk
+2017/12/01  10:02             1,264 UML.lnk
+2017/09/06  17:31               146 Windows ファイアウォール.lnk
+2017/11/20  16:01             1,647 yEd.lnk
+2017/08/31  09:33             1,515 ご注意！ この共有フォルダに保存されたデータは毎日午前７時に消去されます。.lnk
+2018/01/25  16:59               104 インターネット.lnk
+2017/12/01  10:02             1,650 オブジェクト図、コラボレーション図.mdwt.lnk
+2017/09/14  12:09               958 サイバーセキュリティ使節団 20170324.pdf.lnk
+2017/09/06  17:31               116 システムとセキュリティ.lnk
+2017/12/09  23:23               792 ダウンロード.lnk
+2017/09/06  17:34               146 デバイスとプリンター.lnk
+2017/11/22  06:43               116 ネットワークとインターネット.lnk
+2017/11/15  14:26               146 ネットワークと共有センター (2).lnk
+2017/11/20  15:56               146 ネットワークと共有センター (3).lnk
+2017/11/22  06:43               146 ネットワークと共有センター (4).lnk
+2017/09/06  17:34               116 ハードウェアとサウンド.lnk
+2017/09/14  12:57             1,051 フランス申し込み.txt.lnk
+2017/08/30  10:39               146 プログラムと機能.lnk
+2017/12/01  09:58               555 ベーシック (2).lnk
+2017/12/01  09:56               555 ベーシック.lnk
+2017/12/01  09:58               670 ペネトレーション.lnk
+2017/08/30  13:24               146 ホームグループ.lnk
+2017/09/14  18:58             1,037 ポスターセッション.pub.lnk
+2017/09/14  18:59             1,384 ポスターセッション印刷用.lnk
+2017/09/08  09:44             1,610 マカフィー佐々木様_20170907.lnk
+2017/09/07  15:28             1,108 マニュアル.lnk
+2017/12/05  17:05               902 メモ.lnk
+2017/09/08  11:56             1,097 メール下書き.lnk
+2017/08/28  16:17               386 ローカル ディスク (C) (2).lnk
+2017/11/21  17:54               793 会長宅(埼玉県深谷市上野台２８８０?１３).png.lnk
+2017/11/10  16:43               567 図1.png.lnk
+2017/12/13  17:33               790 報告.lnk
+2017/12/01  09:56               670 新しいフォルダー.lnk
+2017/09/14  13:25               636 海外演習.lnk
+2017/11/27  08:44               462 社内報原稿_20171127.lnk
+2017/11/27  08:44               715 社内報原稿_20171127.txt.lnk
+2017/09/13  11:39               881 自己紹介_本田.pptx.lnk
+2017/09/14  13:25               916 自己紹介_本田_rev2.1.pptx.lnk
+2017/09/14  11:35               906 自己紹介_本田_rev2.pptx.lnk
+2017/12/12  15:07             1,881 花ちゃん誕生日写真.lnk
+2017/12/09  23:24               813 許諾条件.txt.lnk
+2017/12/01  09:56               452 講義.lnk
+             122 個のファイル             105,298 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations のディレクトリ
+
+2018/01/10  14:06    <DIR>          .
+2018/01/10  14:06    <DIR>          ..
+2017/08/29  13:24             6,144 12dc1ea8e34b5a6.automaticDestinations-ms
+2017/11/23  10:09             4,096 1bc392b8e104a00e.automaticDestinations-ms
+2017/11/29  11:46             2,560 4ddcbb9e6a9e61c0.automaticDestinations-ms
+2017/09/14  14:14             3,584 5d696d521de238c3.automaticDestinations-ms
+2018/01/30  16:18            59,392 5f7b5f1e01b83767.automaticDestinations-ms
+2017/12/01  10:00             1,536 75062125a4ac1864.automaticDestinations-ms
+2018/01/10  14:06             2,560 75668a91ce73b054.automaticDestinations-ms
+2017/09/14  18:50             1,536 78f1f55181f2d70b.automaticDestinations-ms
+2017/11/22  06:43             6,144 7e4dca80246863e3.automaticDestinations-ms
+2017/12/09  23:24            30,720 7e65c2c712ae0b81.automaticDestinations-ms
+2017/12/09  23:23             3,584 96d7455bc6241e9a.automaticDestinations-ms
+2018/01/30  16:18             8,192 9b9cdc69c1c24e2b.automaticDestinations-ms
+2017/09/14  18:59             5,120 9c08ad74ad8708df.automaticDestinations-ms
+2017/11/20  16:01            12,800 9d1f905ce5044aee.automaticDestinations-ms
+2017/11/02  10:47             4,608 a2c73c383525f1bb.automaticDestinations-ms
+2017/12/12  15:07            14,336 a52b0784bd667468.automaticDestinations-ms
+2017/09/14  18:46            14,336 b8ab77100df80ab2.automaticDestinations-ms
+2017/08/24  11:06             1,536 cb05cc8c5a282971.automaticDestinations-ms
+2017/12/13  17:33            28,160 d00655d2aa12ff6d.automaticDestinations-ms
+2017/08/31  09:33             1,536 d06c94537ecaee12.automaticDestinations-ms
+2017/11/27  17:00             3,584 d4f97ce96a6c90d4.automaticDestinations-ms
+2017/08/30  13:13             3,584 e36bfc8972e5ab1d.automaticDestinations-ms
+2018/01/30  16:18            78,336 f01b4d95cf55d32a.automaticDestinations-ms
+2018/01/25  16:59             3,072 f18460fded109990.automaticDestinations-ms
+              24 個のファイル             301,056 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations のディレクトリ
+
+2018/01/16  09:35    <DIR>          .
+2018/01/16  09:35    <DIR>          ..
+2017/10/02  19:36             8,816 28c8b86deab549a1.customDestinations-ms
+2017/11/30  11:14             5,430 590aee7bdd69b59b.customDestinations-ms
+2018/01/10  14:05            19,640 5d696d521de238c3.customDestinations-ms
+2017/08/23  17:21                24 7e4dca80246863e3.customDestinations-ms
+2017/08/24  10:36             1,596 9d1f905ce5044aee.customDestinations-ms
+2017/08/23  17:21                24 f01b4d95cf55d32a.customDestinations-ms
+2018/01/16  09:35                24 f18460fded109990.customDestinations-ms
+               7 個のファイル              35,554 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\SendTo のディレクトリ
+
+2018/01/15  16:53    <DIR>          .
+2018/01/15  16:53    <DIR>          ..
+2018/01/15  16:53             1,049 Bluetooth ファイル転送.LNK
+2017/09/29  22:44                 3 Compressed (zipped) Folder.ZFSendToTarget
+2017/09/29  22:44                 7 Desktop (create shortcut).DeskLink
+2017/09/29  22:43             1,112 Fax Recipient.lnk
+2018/01/15  16:47             2,543 FAX 受信者.lnk
+2017/09/29  22:44                 4 Mail Recipient.MAPIMail
+2017/08/31  13:23             1,076 サクラエディタ.lnk
+2017/08/23  17:20                 0 ドキュメント.mydocs
+               8 個のファイル               5,794 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+2018/01/15  16:51    <DIR>          Programs
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+2017/09/29  22:46    <DIR>          Accessibility
+2018/01/15  16:51    <DIR>          Accessories
+2018/01/15  16:51    <DIR>          Administrative Tools
+2017/09/12  11:12             2,174 Bash on Ubuntu on Windows.lnk
+2017/09/29  22:46    <DIR>          Maintenance
+2018/01/15  16:46    <DIR>          Nmap
+2018/01/15  16:51    <DIR>          Startup
+2017/09/29  22:46    <DIR>          System Tools
+2017/09/29  22:46    <DIR>          Windows PowerShell
+               1 個のファイル               2,174 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility のディレクトリ
+
+2017/09/29  22:46    <DIR>          .
+2017/09/29  22:46    <DIR>          ..
+2017/09/29  22:41             1,106 Magnify.lnk
+2017/09/29  22:41             1,108 Narrator.lnk
+2017/09/29  22:41             1,106 On-Screen Keyboard.lnk
+               3 個のファイル               3,320 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+2018/01/15  16:51             1,323 Internet Explorer.lnk
+2017/09/29  22:41             1,158 Notepad.lnk
+               2 個のファイル               2,481 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance のディレクトリ
+
+2017/09/29  22:46    <DIR>          .
+2017/09/29  22:46    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Nmap のディレクトリ
+
+2018/01/15  16:46    <DIR>          .
+2018/01/15  16:46    <DIR>          ..
+2017/10/30  14:39             1,072 Nmap - Zenmap GUI.lnk
+               1 個のファイル               1,072 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup のディレクトリ
+
+2018/01/15  16:51    <DIR>          .
+2018/01/15  16:51    <DIR>          ..
+2017/09/01  10:10             1,349 SnapCrab.lnk
+               1 個のファイル               1,349 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools のディレクトリ
+
+2017/09/29  22:46    <DIR>          .
+2017/09/29  22:46    <DIR>          ..
+2017/09/29  22:41             1,142 Command Prompt.lnk
+2017/09/29  22:42               335 computer.lnk
+2017/09/29  22:42               405 Control Panel.lnk
+2017/09/29  22:42               407 File Explorer.lnk
+2017/09/29  22:42               409 Run.lnk
+               5 個のファイル               2,698 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell のディレクトリ
+
+2017/09/29  22:46    <DIR>          .
+2017/09/29  22:46    <DIR>          ..
+2017/09/29  22:44             2,494 Windows PowerShell (x86).lnk
+2017/09/29  22:43             1,274 Windows PowerShell ISE (x86).lnk
+2017/09/29  22:43             1,274 Windows PowerShell ISE.lnk
+2017/09/29  22:44             2,494 Windows PowerShell.lnk
+               4 個のファイル               7,536 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Templates のディレクトリ
+
+2017/09/29  22:46    <DIR>          .
+2017/09/29  22:46    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Themes のディレクトリ
+
+2018/01/25  09:58    <DIR>          .
+2018/01/25  09:58    <DIR>          ..
+2018/01/25  15:10    <DIR>          CachedFiles
+2018/01/25  15:10           423,448 TranscodedWallpaper
+               1 個のファイル             423,448 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Windows\Themes\CachedFiles のディレクトリ
+
+2018/01/25  15:10    <DIR>          .
+2018/01/25  15:10    <DIR>          ..
+2018/01/25  10:19            79,409 CachedImage_1440_900_POS4.jpg
+2018/01/25  10:20           216,845 CachedImage_2560_1600_POS4.jpg
+2018/01/25  10:19           306,436 CachedImage_2880_1800_POS4.jpg
+2018/01/25  09:58           506,792 CachedImage_3840_2160_POS4.jpg
+2018/01/25  15:10           850,313 CachedImage_5120_3200_POS4.jpg
+               5 個のファイル           1,959,795 バイト
+
+ C:\Users\honda\AppData\Roaming\Microsoft\Word のディレクトリ
+
+2017/08/31  13:22    <DIR>          .
+2017/08/31  13:22    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\RealVNC のディレクトリ
+
+2017/10/30  13:43    <DIR>          .
+2017/10/30  13:43    <DIR>          ..
+2017/11/02  10:47    <DIR>          ViewerStore
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\RealVNC\ViewerStore のディレクトリ
+
+2017/11/02  10:47    <DIR>          .
+2017/11/02  10:47    <DIR>          ..
+2017/11/02  10:47             5,723 4cedc1ee-4b57-4cf0-7a97-fa37f19c0330.jrle
+2017/11/02  10:47             1,149 4cedc1ee-4b57-4cf0-7a97-fa37f19c0330.vnc
+               2 個のファイル               6,872 バイト
+
+ C:\Users\honda\AppData\Roaming\sakura のディレクトリ
+
+2017/12/05  17:36    <DIR>          .
+2017/12/05  17:36    <DIR>          ..
+2017/12/05  17:36           107,445 sakura.ini
+               1 個のファイル             107,445 バイト
+
+ C:\Users\honda\AppData\Roaming\Skype のディレクトリ
+
+2017/08/24  09:24    <DIR>          .
+2017/08/24  09:24    <DIR>          ..
+2017/08/24  09:24    <DIR>          RootTools
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\Skype\RootTools のディレクトリ
+
+2017/08/24  09:24    <DIR>          .
+2017/08/24  09:24    <DIR>          ..
+2017/08/24  09:24                76 roottools.conf
+               1 個のファイル                  76 バイト
+
+ C:\Users\honda\AppData\Roaming\Wireshark のディレクトリ
+
+2017/11/29  15:21    <DIR>          .
+2017/11/29  15:21    <DIR>          ..
+2017/11/29  15:21    <DIR>          profiles
+2017/11/29  15:21             2,698 recent
+2017/11/29  15:21             2,084 recent_common
+               2 個のファイル               4,782 バイト
+
+ C:\Users\honda\AppData\Roaming\Wireshark\profiles のディレクトリ
+
+2017/11/29  15:21    <DIR>          .
+2017/11/29  15:21    <DIR>          ..
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02    <DIR>          yEd
+               0 個のファイル                   0 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks\yEd のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02                68 history.xml
+2017/11/20  16:02    <DIR>          palettes
+2017/11/20  16:02                67 propertiesmapper.xml
+2017/11/20  16:02             6,006 realizers.xml
+2017/11/20  16:02             5,627 settings.xml
+2017/11/20  16:02             2,806 yed-3_5.layout
+               5 個のファイル              14,574 バイト
+
+ C:\Users\honda\AppData\Roaming\yWorks\yEd\palettes のディレクトリ
+
+2017/11/20  16:02    <DIR>          .
+2017/11/20  16:02    <DIR>          ..
+2017/11/20  16:02             1,039 palette_info.xml
+               1 個のファイル               1,039 バイト
+
+     ファイルの総数:
+             296 個のファイル          83,689,265 バイト
+             305 個のディレクトリ  17,060,630,528 バイトの空き領域
