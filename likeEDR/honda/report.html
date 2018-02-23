@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>挙動確認ツール結果 - </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link rel="stylesheet" href="report.css">
+    <script type="text/javascript" src="chart.js"></script>
+    <script>
+      function adjHeight(aname){
+        var p = document.getElementById(aname + "_area");
+        var c = document.getElementById(aname + "_detail");
+        if (p.offsetHeight < c.offsetHeight) {
+          p.style.height = c.offsetHeight + 15 + "px";
+        }
+        return;
+      }
+    </script>
+  </head>
+  <body>
+    <h1>挙動確認ツール結果 - </h1>
+    <hr/>
+    <script>
+      window.onload = function() {
+        var AutoRuns = document.getElementById("AutoRuns_chart").getContext("2d");
+        window.AutoRunsPie = new Chart(AutoRuns, AutoRuns_config);
+        var Regs = document.getElementById("Reg_chart").getContext("2d");
+        window.RegPie = new Chart(Regs, Reg_config);
+        var Dirs = document.getElementById("Dir_chart").getContext("2d");
+        window.DirPie = new Chart(Dirs, Dir_config);
+        var Netstat = document.getElementById("Netstat_chart").getContext("2d");
+        window.NetstatPie = new Chart(Netstat, Netstat_config);
+        var Tasklist = document.getElementById("Tasklist_chart").getContext("2d");
+        window.TasklistPie = new Chart(Tasklist, Tasklist_config);
+        var Recent = document.getElementById("Recent_chart").getContext("2d");
+        window.RecentPie = new Chart(Recent, Recent_config);
+        var Browsing = document.getElementById("Browsing_chart").getContext("2d");
+        window.BrowsingPie = new Chart(Browsing, Browsing_config);
+        adjHeight("AutoRuns");
+        adjHeight("Reg");
+        adjHeight("Dir");
+        adjHeight("Netstat");
+        adjHeight("Tasklist");
+        adjHeight("Recent");
+        adjHeight("Browsing");
+      };
+    </script>
+  </body>
+</html>
