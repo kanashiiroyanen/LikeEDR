@@ -19,13 +19,12 @@ Introduction
   - #chmod 755 /etc/libvirt
   - #chmod 755 /etc/libvirt/qemu
   - #usermod -aG libvirt <user>
-6. Change ownership and add libvirt to the webserver group
-7. Install pon\_catch to Host OS.
+6. Install pon\_catch to Host OS.
   - Daemonize the node.js server from pon-cache directory.
   - node.js server received malpon packet and change virtual network.
-8. Place the LikeEDR directory under /var/www/html directory
+7. Place the LikeEDR directory under /var/www/html directory
   - Please open forensic.php (EDR server) from browser.
-9. Install pon, malpon, and malkan from windows directory to guest VM (Windows OS)
+8. Install pon, malpon, and malkan from windows directory to guest VM (Windows OS)
   - pon is send log tool.
   - malkan is detection malware and send packet to EDR server using malpon.
 
